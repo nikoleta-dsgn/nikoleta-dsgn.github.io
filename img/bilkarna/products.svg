@@ -1,0 +1,468 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3276" viewBox="0 0 1920 3276">
+  <defs>
+    <filter id="Rectangle_37" x="-9" y="-6" width="1938" height="357" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12" x="-20" y="890" width="181" height="162" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39" x="140" y="617" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-2" x="140" y="1396" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-3" x="140" y="2175" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-4" x="696" y="617" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-5" x="696" y="1396" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-6" x="696" y="2175" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-7" x="1252" y="617" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-8" x="1252" y="1396" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_39-9" x="1252" y="2175" width="536" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-products">
+      <rect width="1920" height="3276"/>
+    </clipPath>
+  </defs>
+  <g id="products" clip-path="url(#clip-products)">
+    <rect width="1920" height="3276" fill="#fefefe"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_37)">
+      <rect id="Rectangle_37-2" data-name="Rectangle 37" width="1920" height="339" fill="#fff" opacity="0.8"/>
+    </g>
+    <g id="Group_150" data-name="Group 150" transform="translate(175.5 -185)">
+      <text id="всички_113_" data-name="всички (113)" transform="translate(240.5 529)" fill="#414040" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-72.552" y="0">всички (113)</tspan></text>
+      <text id="настинка_и_алергия_23_" data-name="настинка и алергия (23)" transform="translate(504.5 529)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300" opacity="0.64"><tspan x="-146.316" y="0">настинка и алергия (23)</tspan></text>
+      <text id="първа_помощ_16_" data-name="първа помощ (16)" transform="translate(819.5 529)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300" opacity="0.64"><tspan x="-106.8" y="0">първа помощ (16)</tspan></text>
+      <text id="болкоуспокояващи_34_" data-name="болкоуспокояващи (34)" transform="translate(1137.5 529)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300" opacity="0.64"><tspan x="-145.464" y="0">болкоуспокояващи (34)</tspan></text>
+      <text id="масла_и_тинктури_40_" data-name="масла и тинктури (40)" transform="translate(1482.5 529)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300" opacity="0.64"><tspan x="-134.616" y="0">масла и тинктури (40)</tspan></text>
+    </g>
+    <g id="Group_183" data-name="Group 183" transform="translate(27)">
+      <text id="цена" transform="translate(493 407)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">Цена</tspan></text>
+      <g id="Group_180" data-name="Group 180" transform="translate(107 4)">
+        <line id="Line_96" data-name="Line 96" x2="244.482" transform="translate(531.5 394.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <circle id="Ellipse_34" data-name="Ellipse 34" cx="14" cy="14" r="14" transform="translate(743 381)" fill="#414040"/>
+      </g>
+      <text id="_3лв." data-name="3лв." transform="translate(601 406)" fill="#414040" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="-20.16" y="0">3лв.</tspan></text>
+      <text id="_75лв." data-name="75лв." transform="translate(926 406)" fill="#414040" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="-25.88" y="0">75лв.</tspan></text>
+      <g id="Group_181" data-name="Group 181" transform="translate(4 4)">
+        <text id="вид" transform="translate(1015 403)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">Вид</tspan></text>
+        <text id="всички" transform="translate(1095 401)" fill="#414040" font-size="14" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">Всички</tspan></text>
+        <line id="Line_97" data-name="Line 97" x2="235" transform="translate(1084.5 409.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_182" data-name="Group 182" transform="translate(442 4)">
+        <text id="проблем" transform="translate(1065 403)" fill="#414040" font-size="24" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-115.56" y="0">Проблем</tspan></text>
+        <text id="всички-2" data-name="всички" transform="translate(1095 401)" fill="#414040" font-size="14" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">Всички</tspan></text>
+        <line id="Line_97-2" data-name="Line 97" x2="235" transform="translate(1084.5 409.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="72" height="72" transform="translate(1847 221.381)" fill="rgba(65,64,64,0.54)"/>
+    <g id="Group_51" data-name="Group 51" transform="translate(1870 242.381)">
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="10.845" cy="10.845" r="10.845" fill="none" stroke="#414040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_19" data-name="Line 19" x2="7.23" y2="7.23" transform="translate(18.909 18.909)" fill="none" stroke="#414040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <path id="Path_128" data-name="Path 128" d="M1692,0" transform="translate(225.5 220.881)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="начало" transform="translate(1089.666 269)" fill="#414040" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-74.128" y="0">НАЧАЛО</tspan></text>
+    <text id="продукти" transform="translate(1331.666 269)" fill="#414040" font-size="32" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-96.032" y="0">ПРОДУКТИ</tspan></text>
+    <text id="за_нас" data-name="за нас" transform="translate(1561.666 269)" fill="#414040" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-62.608" y="0">ЗА НАС</tspan></text>
+    <text id="чзв" transform="translate(1730.666 269)" fill="#414040" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-33.856" y="0">ЧЗВ</tspan></text>
+    <g id="Group_219" data-name="Group 219" transform="translate(155 72)">
+      <g id="Group_179" data-name="Group 179" transform="translate(246.666 117)">
+        <g id="Group_1" data-name="Group 1" transform="translate(26.5 9.5)">
+          <text id="_0888_456_781" data-name="0888 456 781" transform="translate(4 31)" fill="#202020" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">0888 456 781</tspan></text>
+          <text id="Дондуков_23" data-name="Дондуков 23" transform="translate(208 70)" fill="#202020" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-207.968" y="0">Дондуков 23</tspan></text>
+        </g>
+        <line id="Line_95" data-name="Line 95" y2="88" fill="none" stroke="#202020" stroke-width="2"/>
+      </g>
+      <g id="Group_214" data-name="Group 214">
+        <g id="Group_201" data-name="Group 201">
+          <g id="Group_191" data-name="Group 191" transform="translate(39.109 153.966)">
+            <path id="Path_131" data-name="Path 131" d="M-889.74,7282" transform="translate(889.74 -7282)" fill="#171f18" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+          </g>
+          <g id="Group_192" data-name="Group 192" transform="translate(50.759 11.509)">
+            <path id="Path_132" data-name="Path 132" d="M-858.234,6994.927l-3.255-2.933a22.593,22.593,0,0,0-1.662-31.871l2.933-3.255A26.98,26.98,0,0,1-858.234,6994.927Z" transform="translate(863.152 -6956.867)" fill="#171f18"/>
+          </g>
+          <g id="Group_193" data-name="Group 193" transform="translate(8.61)">
+            <path id="Path_133" data-name="Path 133" d="M-934.651,6986.647a41.755,41.755,0,0,1-24.7-8.1l2.589-3.535A37.346,37.346,0,0,0-921.853,6980a37.128,37.128,0,0,0,21.088-19.328,37.127,37.127,0,0,0,1.245-28.577l4.117-1.5a41.48,41.48,0,0,1-1.391,31.928,41.483,41.483,0,0,1-23.561,21.593A41.755,41.755,0,0,1-934.651,6986.647Z" transform="translate(959.349 -6930.6)" fill="#171f18"/>
+          </g>
+          <g id="Group_195" data-name="Group 195" transform="translate(0 118.48)">
+            <g id="Group_194" data-name="Group 194">
+              <path id="Path_134" data-name="Path 134" d="M-933.871,7201.01v4.754l.037,0L-979,7224.9v-4.759l45.167-19.125Z" transform="translate(979 -7201.01)" fill="#171f18"/>
+            </g>
+          </g>
+          <g id="Group_196" data-name="Group 196" transform="translate(6.839 137.221)">
+            <rect id="Rectangle_22" data-name="Rectangle 22" width="4.382" height="67.789" fill="#171f18"/>
+          </g>
+          <g id="Group_197" data-name="Group 197" transform="translate(17.964 166.907)">
+            <rect id="Rectangle_23" data-name="Rectangle 23" width="4.382" height="38.104" fill="#171f18"/>
+          </g>
+          <g id="Group_198" data-name="Group 198" transform="translate(17.766 60.64)">
+            <path id="Path_135" data-name="Path 135" d="M-901.8,7213.372h-4.381v-94.86c0-22.7-7.678-31.9-29.34-35.159l-1.708-.257L-938.452,7069h38.695v4.382h-33.917l.512,5.912c22.535,3.849,31.361,14.979,31.361,39.217Z" transform="translate(938.452 -7069)" fill="#171f18"/>
+          </g>
+          <g id="Group_199" data-name="Group 199" transform="translate(52.225 69.257)">
+            <rect id="Rectangle_24" data-name="Rectangle 24" width="4.235" height="4.235" transform="translate(4.235 0) rotate(90)" fill="#171f18"/>
+          </g>
+          <g id="Group_200" data-name="Group 200" transform="translate(58.295 190.296)">
+            <rect id="Rectangle_25" data-name="Rectangle 25" width="4.235" height="14.715" fill="#171f18"/>
+          </g>
+        </g>
+        <g id="Group_213" data-name="Group 213" transform="translate(75.099 57.573)">
+          <g id="Group_202" data-name="Group 202" transform="translate(0 3.651)">
+            <path id="Path_136" data-name="Path 136" d="M-803.444,7087.575h10.876c5.5,0,8.425.73,10.9,2.527,2.639,1.91,4.044,5.279,4.044,9.38,0,4.662-1.741,8.312-4.83,10.166-2.527,1.573-8.629,2.19-13.853,2.19H-807.6v-41.506h24.319v3.764h-20.163Zm0,20.5h8.8c3.988,0,6.459-.281,8.256-.9,2.864-.954,4.549-3.706,4.549-7.638,0-3.146-1.179-5.729-3.314-6.853-1.685-1.012-4.043-1.348-7.75-1.348h-10.539Z" transform="translate(807.6 -7070.333)" fill="#171f18"/>
+          </g>
+          <g id="Group_203" data-name="Group 203" transform="translate(35.924 3.651)">
+            <path id="Path_137" data-name="Path 137" d="M-692.584,7070.333v41.506h-4.156V7076.51l-24.713,35.328h-4.156v-41.506h4.156v35.327l24.713-35.327Z" transform="translate(725.609 -7070.333)" fill="#171f18"/>
+          </g>
+          <g id="Group_204" data-name="Group 204" transform="translate(0 54.791)">
+            <path id="Path_138" data-name="Path 138" d="M-803.444,7209.236v19.32H-807.6v-41.5h4.156v19.04l18.928-19.04h5.5l-20.5,20.556,20.5,20.949h-5.617Z" transform="translate(807.6 -7187.051)" fill="#171f18"/>
+          </g>
+          <g id="Group_205" data-name="Group 205" transform="translate(79.138 54.791)">
+            <path id="Path_139" data-name="Path 139" d="M-626.983,7187.051h16.28c5.335,0,8.481.617,11.064,2.189,3.146,1.854,4.943,5.616,4.943,10.392,0,4.156-1.46,7.582-4.156,9.547-2.527,1.854-5.56,2.584-11.177,2.584h-12.8v16.793h-4.156ZM-610.309,7208c3.818,0,6.234-.394,7.975-1.405,2.19-1.179,3.426-3.762,3.426-7.021,0-4.043-1.685-6.907-4.662-7.862-1.853-.617-6.191-.9-10.291-.9h-8.966V7208Z" transform="translate(626.983 -7187.051)" fill="#171f18"/>
+          </g>
+          <g id="Group_206" data-name="Group 206" transform="translate(0 105.932)">
+            <path id="Path_140" data-name="Path 140" d="M-807.6,7303.771h4.156v18.253h21.511v-18.253h4.156v41.5h-4.156v-19.488h-21.511v19.488H-807.6Z" transform="translate(807.6 -7303.771)" fill="#171f18"/>
+          </g>
+          <g id="Group_207" data-name="Group 207" transform="translate(73.513)">
+            <path id="Path_141" data-name="Path 141" d="M-600.106,7107.567h4.438L-617.344,7062h-4.391l1.969,4.286-20.055,41.281h4.236l.788-1.455c.594-1.084,16.8-34.794,16.8-34.794Z" transform="translate(639.821 -7062)" fill="#171f18"/>
+          </g>
+          <g id="Group_208" data-name="Group 208" transform="translate(31.348 50.826)">
+            <path id="Path_142" data-name="Path 142" d="M-715.118,7216.557l15.621.222,3.157,6.789h4.439L-713.578,7178h-4.391l1.969,4.287-20.055,41.281h4.236l.788-1.346c.594-1.084,3.2-5.665,3.2-5.665Zm.889-29.184,13.107,25.24h-24.816Z" transform="translate(736.055 -7178)" fill="#171f18"/>
+          </g>
+          <g id="Group_209" data-name="Group 209" transform="translate(34.698 102.09)">
+            <path id="Path_143" data-name="Path 143" d="M-707.472,7333.558l15.621.222,3.157,6.789h4.439L-705.933,7295h-4.391l1.969,4.285-20.055,41.282h4.236l.787-1.346c.594-1.084,3.2-5.665,3.2-5.665Zm.889-29.184,13.107,25.24h-24.816Z" transform="translate(728.409 -7295.001)" fill="#171f18"/>
+          </g>
+          <g id="Group_212" data-name="Group 212" transform="translate(79.138 105.145)">
+            <g id="Group_210" data-name="Group 210" transform="translate(0 17.654)">
+              <rect id="Rectangle_26" data-name="Rectangle 26" width="4.235" height="39.543" transform="translate(39.543 0) rotate(90)" fill="#171f18"/>
+            </g>
+            <g id="Group_211" data-name="Group 211" transform="translate(17.654)">
+              <rect id="Rectangle_27" data-name="Rectangle 27" width="4.235" height="39.543" fill="#171f18"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_222" data-name="Group 222" transform="translate(35.666 -64)">
+      <text id="bg_I_en" data-name="bg I en" transform="translate(1667 187)" fill="#414040" font-size="32" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-61.504" y="0">BG</tspan><tspan y="0" xml:space="preserve" font-family="Montserrat-Regular, Montserrat" font-weight="400"> I EN</tspan></text>
+      <g id="Group_220" data-name="Group 220" transform="translate(1379 135.761)">
+        <g id="Group_153" data-name="Group 153">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="165" height="79" transform="translate(0 0.239)" fill="#414040"/>
+          <text id="ВХОД" transform="translate(83 52.239)" fill="#ececec" font-size="33" font-family="Montserrat-Regular, Montserrat"><tspan x="-49.318" y="0">ВХОД</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_157" data-name="Group 157" transform="translate(0 895)">
+      <g transform="matrix(1, 0, 0, 1, 0, -895)" filter="url(#Rectangle_12)">
+        <path id="Rectangle_12-2" data-name="Rectangle 12" d="M0,0H140a11,11,0,0,1,11,11V121a11,11,0,0,1-11,11H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 895)" fill="#414040"/>
+      </g>
+      <path id="cart" d="M.225,10.911l7.637,30.4a2.612,2.612,0,0,0,2.621,2.621h49.8l-2.1,10.483H13.1a2.621,2.621,0,1,0,0,5.242H60.279A2.618,2.618,0,0,0,62.9,57.037l9.959-49.8h8.387a2.621,2.621,0,0,0,0-5.242H70.762a2.62,2.62,0,0,0-2.621,2.621l-.524,2.621h-65A2.62,2.62,0,0,0,0,9.862a2.593,2.593,0,0,0,.225,1.048Zm61.1,27.781H52.416V12.483H66.569ZM36.691,12.483H49.8V38.691h-13.1Zm-15.725,0h13.1V38.691h-13.1Zm-2.621,0V38.691h-5.9L5.8,12.483ZM55.037,64.9A7.862,7.862,0,1,0,62.9,72.762,7.864,7.864,0,0,0,55.037,64.9Zm0,10.483a2.621,2.621,0,1,1,2.621-2.621A2.618,2.618,0,0,1,55.037,75.383ZM18.346,64.9a7.862,7.862,0,1,0,7.862,7.862A7.864,7.864,0,0,0,18.346,64.9Zm0,10.483a2.621,2.621,0,1,1,2.621-2.621A2.618,2.618,0,0,1,18.346,75.383Z" transform="translate(43.134 25)" fill="#ececec" opacity="0.77"/>
+    </g>
+    <g id="Group_264" data-name="Group 264" transform="translate(-25 -106)">
+      <g transform="matrix(1, 0, 0, 1, 25, 106)" filter="url(#Rectangle_39)">
+        <rect id="Rectangle_39-10" data-name="Rectangle 39" width="488" height="596" transform="translate(160 637)" fill="#fff"/>
+      </g>
+      <g id="Group_151" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268" data-name="Group 268">
+        <text id="_100г." data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г." data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г." data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_275" data-name="Group 275" transform="translate(-25 673)">
+      <g transform="matrix(1, 0, 0, 1, 25, -673)" filter="url(#Rectangle_39-2)">
+        <rect id="Rectangle_39-11" data-name="Rectangle 39" width="488" height="596" transform="translate(160 1416)" fill="#fff"/>
+      </g>
+      <g id="Group_151-2" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._2" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-2" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-2" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-2" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-2" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-2" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-2" data-name="Group 268">
+        <text id="_100г.-2" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-2" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-2" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-2" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-2" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_278" data-name="Group 278" transform="translate(-25 1452)">
+      <g transform="matrix(1, 0, 0, 1, 25, -1452)" filter="url(#Rectangle_39-3)">
+        <rect id="Rectangle_39-12" data-name="Rectangle 39" width="488" height="596" transform="translate(160 2195)" fill="#fff"/>
+      </g>
+      <g id="Group_151-3" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._3" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-3" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-3" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-3" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-3" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-3" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-3" data-name="Group 268">
+        <text id="_100г.-3" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-3" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-3" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-3" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-3" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_264-2" data-name="Group 264" transform="translate(531 -106)">
+      <g transform="matrix(1, 0, 0, 1, -531, 106)" filter="url(#Rectangle_39-4)">
+        <rect id="Rectangle_39-13" data-name="Rectangle 39" width="488" height="596" transform="translate(716 637)" fill="#fff"/>
+      </g>
+      <g id="Group_151-4" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._4" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-4" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-4" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-4" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-4" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-4" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-4" data-name="Group 268">
+        <text id="_100г.-4" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-4" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-4" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-4" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-4" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_273" data-name="Group 273" transform="translate(531 673)">
+      <g transform="matrix(1, 0, 0, 1, -531, -673)" filter="url(#Rectangle_39-5)">
+        <rect id="Rectangle_39-14" data-name="Rectangle 39" width="488" height="596" transform="translate(716 1416)" fill="#fff"/>
+      </g>
+      <g id="Group_151-5" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._5" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-5" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-5" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-5" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-5" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-5" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-5" data-name="Group 268">
+        <text id="_100г.-5" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-5" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-5" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-5" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-5" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_276" data-name="Group 276" transform="translate(531 1452)">
+      <g transform="matrix(1, 0, 0, 1, -531, -1452)" filter="url(#Rectangle_39-6)">
+        <rect id="Rectangle_39-15" data-name="Rectangle 39" width="488" height="596" transform="translate(716 2195)" fill="#fff"/>
+      </g>
+      <g id="Group_151-6" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._6" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-6" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-6" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-6" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-6" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-6" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-6" data-name="Group 268">
+        <text id="_100г.-6" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-6" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-6" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-6" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-6" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_264-3" data-name="Group 264" transform="translate(1087 -106)">
+      <g transform="matrix(1, 0, 0, 1, -1087, 106)" filter="url(#Rectangle_39-7)">
+        <rect id="Rectangle_39-16" data-name="Rectangle 39" width="488" height="596" transform="translate(1272 637)" fill="#fff"/>
+      </g>
+      <g id="Group_151-7" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._7" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-7" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-7" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-7" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-7" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-7" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-7" data-name="Group 268">
+        <text id="_100г.-7" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-7" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-7" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-7" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-7" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_274" data-name="Group 274" transform="translate(1087 673)">
+      <g transform="matrix(1, 0, 0, 1, -1087, -673)" filter="url(#Rectangle_39-8)">
+        <rect id="Rectangle_39-17" data-name="Rectangle 39" width="488" height="596" transform="translate(1272 1416)" fill="#fff"/>
+      </g>
+      <g id="Group_151-8" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._8" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-8" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-8" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-8" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-8" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-8" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-8" data-name="Group 268">
+        <text id="_100г.-8" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-8" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-8" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-8" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-8" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_277" data-name="Group 277" transform="translate(1087 1452)">
+      <g transform="matrix(1, 0, 0, 1, -1087, -1452)" filter="url(#Rectangle_39-9)">
+        <rect id="Rectangle_39-18" data-name="Rectangle 39" width="488" height="596" transform="translate(1272 2195)" fill="#fff"/>
+      </g>
+      <g id="Group_151-9" data-name="Group 151" transform="translate(25 -117)">
+        <text id="_12.50_лв._9" data-name="12.50 лв. " transform="translate(300 1397)" fill="#414040" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-75.514" y="0">12.50 лв. </tspan></text>
+      </g>
+      <path id="Path_152-9" data-name="Path 152" d="M0,0H165V79H0Z" transform="translate(444 1228)" fill="#414040"/>
+      <text id="КУПИ-9" data-name="КУПИ" transform="translate(527 1280)" fill="#ececec" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-47.888" y="0">КУПИ</tspan></text>
+      <g id="Group_154-9" data-name="Group 154" transform="translate(32 -120)">
+        <text id="име-9" data-name="име" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-36.825" y="0">ИМЕ</tspan></text>
+        <line id="Line_94-9" data-name="Line 94" x2="171" transform="translate(311.5 1247.5)" fill="none" stroke="#414040" stroke-width="5"/>
+      </g>
+      <g id="Group_268-9" data-name="Group 268">
+        <text id="_100г.-9" data-name="100г." transform="translate(321 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-28.452" y="0">100г.</tspan></text>
+        <text id="_300г.-9" data-name="300г." transform="translate(427 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.36" y="0">300г.</tspan></text>
+        <text id="_500г.-9" data-name="500г." transform="translate(535 1187)" fill="#171f18" font-size="24" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="-30.384" y="0">500г.</tspan></text>
+      </g>
+      <text id="в_наличност-9" data-name="в наличност" transform="translate(302 1304)" fill="#414040" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-52.616" y="0">в наличност</tspan></text>
+      <g id="Rectangle_42-9" data-name="Rectangle 42" transform="translate(227 667)" fill="#7e7e7e" stroke="#707070" stroke-width="1">
+        <rect width="411" height="384" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="410" height="383" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="45" height="45" transform="translate(771 2887)" fill="#7e7e7e"/>
+    <g id="Group_271" data-name="Group 271" transform="translate(0 -4.353)">
+      <path id="Path_150" data-name="Path 150" d="M0,0,10.574,10.574,21.147,0" transform="translate(1431 2924.5) rotate(-90)" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Path_151" data-name="Path 151" d="M0,10.574,10.574,0,21.147,10.574" transform="translate(478 2924.5) rotate(-90)" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="Group_270" data-name="Group 270" transform="translate(563 1688)">
+      <text id="_1_2_3_4_5_6_7_8_9_10_11_12" data-name="1     2     3     4     5     6     7     8     9     10     11     12" transform="translate(397 1232)" fill="#414040" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-349.215" y="0" xml:space="preserve">1     2     3     4     5     6     7     8     9     10     11     12</tspan></text>
+    </g>
+    <rect id="Rectangle_561" data-name="Rectangle 561" width="223" height="223" transform="translate(139 72)" fill="#414040"/>
+    <text id="logo" transform="translate(251 213)" fill="#fff" font-size="83" font-family="Montserrat-Regular, Montserrat"><tspan x="-91.674" y="0">logo</tspan></text>
+    <g id="Group_1083" data-name="Group 1083" transform="translate(-106 195)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="1920" height="124" transform="translate(106 2956)" fill="#414040"/>
+      <text id="Copyright_2020_I_Bilkarna_Ltd._I_All_rights_reserved." data-name="Copyright © 2020   I   Bilkarna Ltd.   I   All rights reserved." transform="translate(891.393 3029)" fill="rgba(255,255,255,0.64)" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0" xml:space="preserve">Copyright © 2020   </tspan><tspan y="0" xml:space="preserve">I   </tspan><tspan y="0" xml:space="preserve">Bilkarna Ltd.  </tspan><tspan y="0" xml:space="preserve"> I   </tspan><tspan y="0">All rights reserved.</tspan></text>
+      <g id="Group_247" data-name="Group 247" transform="translate(-896.607 -578)">
+        <g id="Group_246" data-name="Group 246" transform="translate(-196 34)">
+          <text id="BilkarnaSofia" transform="translate(1279 3571)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">BilkarnaSofia</tspan></text>
+        </g>
+        <g id="Group_245" data-name="Group 245" transform="translate(44 -3)">
+          <text id="Bilkarna.drugstore" transform="translate(1501 3608)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="-222.312" y="0">Bilkarna.drugstore</tspan></text>
+        </g>
+      </g>
+      <g id="Group_250" data-name="Group 250" transform="translate(1059.393 -332)">
+        <g id="Group_248" data-name="Group 248" transform="translate(132)">
+          <g id="Group_245-2" data-name="Group 245" transform="translate(-682 -249)">
+            <text id="Дондуков_23-2" data-name="Дондуков 23" transform="translate(1436 3608)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="-155.976" y="0">Дондуков 23</tspan></text>
+          </g>
+        </g>
+        <g id="Group_249" data-name="Group 249" transform="translate(130.616)">
+          <g id="Group_246-2" data-name="Group 246" transform="translate(-916 -212)">
+            <text id="_0888_456_781-2" data-name="0888 456 781" transform="translate(1279 3571)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">0888 456 781</tspan></text>
+          </g>
+        </g>
+      </g>
+      <text id="политика_за_поверителност_обработка_на_лични_данни_общи_условия" data-name="политика за поверителност          обработка на лични данни          общи условия" transform="translate(731 2928)" fill="#171f18" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0" xml:space="preserve">политика за поверителност          обработка на лични данни          общи условия</tspan></text>
+    </g>
+  </g>
+</svg>

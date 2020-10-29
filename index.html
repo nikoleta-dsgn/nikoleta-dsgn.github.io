@@ -1,0 +1,97 @@
+<html lang=en>
+<head>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Home</title>
+    <link rel="icon" href="favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Mulish:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
+</head>
+<body>
+<a class="home" href="index.html">
+    <img alt="logo" src="img/n-02.svg">
+</a>
+<section class="wrapper">
+    <div class="header">
+        <h1>Hello</h1>
+        <div class="line">
+            <hr>
+            <span class="flipH">hello</span></div>
+        <h2>I'm Nikoleta,</h2>
+        <h5>a product design graduate<br>
+            now specializing in UX &amp; UI</h5>
+        <div class="about">
+            <div>
+                <p>Long story short...</p>
+                <p>I grew up in Varna, by the sea, and went to absolutely not artistic Vocational High School.<br>Didn't
+                    like it.
+                </p>
+                <p>I liked drawing, painting and crafting,<br>so I moved to Sofia to study design.<br>Loved it.
+                </p>
+                <p>My curiosity for understanding how (why) things work and what people need (want) led me to Product
+                    Design and later on UX and UI design.
+                </p>
+                <p>Now it became a part of my life and I can't see myself doing anything else.</p>
+            </div>
+        </div>
+        <div class="about-btn">
+            <a href="img/Nikoleta-Marinova-resume.pdf" target="_blank">
+                <button id="resume">resume here</button>
+            </a>
+            <button id="more-about">a bit more about me</button>
+        </div>
+        <p class="footer"> &copy; Nikoleta Marinova &nbsp; &vert; &nbsp; 2020</p>
+    </div>
+    <div class="main">
+        <a class="card-tb" href="TrailBuddy.html">
+            <div class="card-img">
+                <img alt="trail-buddy" src="img/cards/tb-card.png"/>
+            </div>
+            <div class="card-body">
+                <h3>Trail Buddy</h3>
+                <h4>AR Hiking &amp; Navigation</h4>
+                <p>
+                    This one I designed so fast, but I like how it turned out. <br/>
+                    Designing for AR was a bit challenging at first, but I think I got it. See for yourself.
+                </p>
+            </div>
+        </a>
+        <a class="card-bna" href="bilkarna.html">
+            <div class="card-img">
+                <img alt="bilkarna" src="img/cards/bna-card.png"/>
+            </div>
+            <div class="card-body">
+                <h3>Bilkarna</h3>
+                <h4>Responsive website</h4>
+                <p>Another very first to me - responsiveness. <br>I think now it's an absolute must for a website to be
+                    responsive.</p>
+            </div>
+        </a>
+        <a class="card-frid" href="frid.html">
+            <div class="card-img">
+                <img alt="frid" src="img/cards/frid.png"/>
+            </div>
+            <div class="card-body">
+                <h3>Frid</h3>
+                <h4>Food handling &amp; Recipes</h4>
+                <p>My very first web design project.<br>It started as a UX &amp; Web Design course task.<br>I redid the
+                    UI at least 3 times, but it reserved it's spot here as one of my best works.
+                </p>
+            </div>
+        </a>
+    </div>
+</section>
+<script>
+    document.getElementById('more-about').addEventListener('click', function () {
+        if (document.getElementsByClassName('about')[0].style.display === 'block') {
+            document.getElementsByClassName('about')[0].style.display = 'none'
+            document.getElementById('more-about').innerText = 'a bit more about me'
+        } else {
+            document.getElementsByClassName('about')[0].style.display = 'block'
+            document.getElementById('more-about').innerText = 'a bit less about me'
+        }
+    })
+</script>
+<script src="script.js"></script>
+</body>

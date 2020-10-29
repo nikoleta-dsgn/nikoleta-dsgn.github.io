@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="90" viewBox="0 0 438 90">
+  <g id="t1" transform="translate(3187 -2300.362)">
+    <rect id="Rectangle_190" data-name="Rectangle 190" width="438" height="90" rx="8" transform="translate(-3187 2300.362)" fill="#fff"/>
+    <g id="Group_1192" data-name="Group 1192" transform="translate(-3163 2319.362)">
+      <text id="success_rate" data-name="success rate" transform="translate(0 48)" fill="#0d1214" font-size="14" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">success rate</tspan></text>
+      <text id="_92_" data-name="92 %" transform="translate(17 19)" fill="#0d1214" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">92 %</tspan></text>
+      <text id="accomplished_task" data-name="accomplished task" transform="translate(115 48)" fill="#0d1214" font-size="14" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">accomplished task</tspan></text>
+      <text id="_22_of_24" data-name="22 of 24" transform="translate(137 19)" fill="#0d1214" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">22 of 24</tspan></text>
+      <text id="avg._time_on_task_" data-name="avg. time on task " transform="translate(272 48)" fill="#0d1214" font-size="14" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">avg. time on task </tspan></text>
+      <text id="_4m_28s" data-name="4m 28s" transform="translate(293 19)" fill="#0d1214" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">4m 28s</tspan></text>
+    </g>
+  </g>
+</svg>

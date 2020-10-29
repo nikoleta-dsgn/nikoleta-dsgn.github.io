@@ -1,0 +1,361 @@
+:root {
+    --bg: #f1f1f1;
+    --black: #0D1214;
+     font-size: 16px;
+}
+
+body{
+    background-color: #f1f1f1;
+}
+ .home{
+        width: 4rem;
+        position: fixed;
+        top: 5rem;
+        left: 2rem;
+    }
+
+.wrapper{
+    max-width: 1500px;
+    min-width: 1200px;
+    padding: 0 4%;
+    margin: auto;
+}
+
+.footer{
+    font-family: 'Mulish', sans-serif;
+    font-size: 0.850rem;
+    font-weight: 500; 
+    color: var(--black);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.header{
+    width: 26.823vw;
+    height: 85vh;
+    margin: 4% 4% 0 4%;
+    position: fixed;
+}
+
+.main{
+    margin: 8% 4% 0 8%;
+    float: right;
+}
+
+
+.about{
+    margin-top: 3rem;
+    width: 20rem;
+    display: none;
+}
+
+.about p{
+    font-family: 'Mulish', sans-serif;
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+}
+
+.about-btn button{
+    font-family: 'Mulish', sans-serif;
+    background: transparent;
+    border: none;
+    margin-top: 1rem;
+    cursor: pointer;
+    display: inline-block;
+    outline: none;
+}
+
+#resume{
+    font-weight: 700 !important;
+}
+
+#resume:hover{
+    background: linear-gradient(-180deg, #f1f1f1 40%, #DADBDB 40%);
+}
+
+
+hr{
+    border: 4px solid var(--black);
+    width: 16vw;
+    margin-bottom: 2vw;
+    opacity: 0.1;
+}
+.line{
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.5rem;
+    font-weight: 900;
+    margin: 0 3vw 0 0;
+    text-align: end;
+    
+}
+span {
+  display: inline-block;
+    margin-top: -2vw;
+    float: right;
+}
+
+.flipH {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.5rem;
+    font-weight: 800;
+    opacity: 0.1;
+  transform: scale(-1, 1);
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+    letter-spacing: -0.1rem; 
+    line-height: 1.2;
+    margin: 2vw 0 0 0;
+}
+
+h5{
+    font-family: 'Mulish', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    letter-spacing: -0.06vw;
+    line-height: 1;
+    margin: 0 0 0.8vw 0;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.card-body p {
+    font-family: 'Mulish', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.2;
+    width: 16rem;
+    height: 10rem;
+}
+
+.card-body a {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--black);
+    text-decoration: none;
+    padding: 0.125rem 0;
+}
+
+.card-body{
+    height: 14rem;
+    align-self: center;
+}
+
+
+.card-tb {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: start;
+    width: 43rem;
+    background: linear-gradient(80deg, #d6ede7 30%, #f1f1f1 0%);
+    padding: 0.5rem;
+    margin: auto auto 6rem;
+}
+
+.card-bna {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: start;
+    width: 43rem;
+    background: linear-gradient(80deg, #E9DC86 30%, #f1f1f1 0%);
+    padding: 0.5rem;
+    margin: auto auto 6rem;
+}
+.card-frid {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: start;
+    width: 43rem;
+    background: linear-gradient(80deg, #C1C1BA 30%, #f1f1f1 0%);
+    padding: 0.5rem;
+    margin: auto auto 7rem;
+}
+
+.card-img {
+    text-align: center;
+    flex: 0 0 45%;
+    position: relative;
+}
+
+.card-tb:hover {
+    background: linear-gradient(80deg, #bceade 30%, #ffffff 0%);
+}
+.card-bna:hover {
+    background: linear-gradient(80deg, #E2C71C 30%, #ffffff 0%);
+}
+.card-frid:hover {
+    background: linear-gradient(80deg, #929285 30%, #ffffff 0%);
+}
+
+.main a{
+    text-decoration: none;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #0D1214;
+    text-decoration: none;
+}
+
+#more-about{
+    margin-left: 4rem;
+    background: linear-gradient(-180deg, #f1f1f1 40%, #DADBDB 40%);
+    font-weight: 400;
+}
+
+#more-about:active{
+    margin-left: 4rem;
+    background: linear-gradient(-180deg, #f1f1f1 40%, #B1B2B6 40%);
+}
+#more-about:hover{
+    margin-left: 4rem;
+    background: linear-gradient(-180deg, #f1f1f1 40%, #B1B2B6 40%);
+}
+
+@media screen and (max-width: 1920px){
+        .home{
+        width: 4rem;
+        position: fixed;
+        top: 9.5rem;
+        left: 12rem;
+    }
+}
+
+@media  screen and (max-width: 1680px){
+    .home{
+        width: 4rem;
+        position: fixed;
+        top: 8.5rem;
+        left: 2.5rem;
+    }
+}
+
+@media  screen and (max-width: 1600px){
+         .home{
+        width: 4rem;
+        position: fixed;
+        top: 9rem;
+        left: 3rem;
+    }
+}
+
+
+
+@media screen and (max-width: 1366px){
+    
+    .home{
+        width: 4rem;
+        position: fixed;
+        top: 5rem;
+        left: 2rem;
+    }
+
+    .header{
+        margin: 2% 4% 0 4%;
+        height: 95vh;
+        width: 30vw;
+    }
+    
+    .main{
+        width: 40rem;
+    }
+    
+    h1{
+        font-size: 3.5rem;
+        margin-right: 3.8rem;
+        margin-bottom: -0.2rem;
+    }
+    
+    .line{
+        margin-right: 1.2rem;
+    }
+    
+    .flipH{
+        font-size: 3.5rem;
+    }
+    
+    h2{
+        font-size: 3.5rem;
+        margin-top: 1rem;
+    }
+    
+    h5{
+        font-size: 2rem;
+    }
+    
+    .about{
+        margin-top: 1rem;
+    }
+    
+    .about p{
+        margin-bottom: 0.5rem;
+    }
+    
+    .main{
+        margin: 14% 4% 0 8%;
+    }
+    
+    .card-tb{
+        margin-bottom: 12rem;
+    }
+    
+    .card-bna{
+        margin-bottom: 12rem;
+    }
+    
+    .card-frid{
+        margin-bottom: 6rem;
+    }
+}
+
+@media  screen and (max-width: 1440px){
+   /* .home{
+        width: 4rem;
+        position: fixed;
+        top: 8.5rem;
+        left: 2.5rem;
+    }*/
+    
+  
+    
+    h2{
+        font-size: 3.5rem;
+        margin-top: 1rem;
+    }
+    
+    h5{
+        font-size: 2rem;
+    }
+    
+}

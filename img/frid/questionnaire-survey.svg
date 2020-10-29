@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="861" height="221.35" viewBox="0 0 861 221.35">
+  <g id="questionnaire-survey" transform="translate(-131 -2126)">
+    <rect id="Rectangle_272" data-name="Rectangle 272" width="861" height="221.35" transform="translate(131 2126)" fill="#fff"/>
+    <g id="Group_571" data-name="Group 571" transform="translate(167 2135)">
+      <text id="Fridge_sharing" data-name="Fridge sharing" transform="translate(0 32)" fill="#151d2e" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">FRIDGE SHARING</tspan></text>
+      <rect id="Rectangle_260" data-name="Rectangle 260" width="26.232" height="117.711" transform="translate(118.454 40) rotate(90)" fill="#b15ea2"/>
+      <text id="_13.9_" data-name="13.9%" transform="translate(124 57)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">13.9%</tspan></text>
+      <text id="Not_sharing" data-name="Not sharing" transform="translate(78 57)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="-74.88" y="0">Not Sharing</tspan></text>
+      <rect id="Rectangle_261" data-name="Rectangle 261" width="26.232" height="222.057" transform="translate(222.8 70.2) rotate(90)" fill="#151d2e"/>
+      <text id="_41.7_" data-name="41.7%" transform="translate(229 88.2)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">41.7%</tspan></text>
+      <text id="_1_person" data-name="1 person" transform="translate(59 88.2)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="-54.012" y="0">1 Person</tspan></text>
+      <rect id="Rectangle_262" data-name="Rectangle 262" width="26.232" height="148.024" transform="translate(148.767 100.2) rotate(90)" fill="#00684c"/>
+      <text id="_22.2_" data-name="22.2%" transform="translate(155 117.2)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">22.2%</tspan></text>
+      <text id="_2_people" data-name="2 people" transform="translate(58 117.2)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="-53.268" y="0">2 People</tspan></text>
+      <rect id="Rectangle_263" data-name="Rectangle 263" width="26.232" height="126.455" transform="translate(127.198 130.2) rotate(90)" fill="#00684c"/>
+      <text id="_16.7_" data-name="16.7%" transform="translate(133 148.2)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">16.7%</tspan></text>
+      <text id="_3_people" data-name="3 people" transform="translate(58 148.2)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="-53.268" y="0">3 People</tspan></text>
+      <rect id="Rectangle_264" data-name="Rectangle 264" width="26.232" height="73.825" transform="translate(74.15 160.2) rotate(90)" fill="#00684c"/>
+      <text id="_5.5_" data-name="5.5%" transform="translate(80 177.2)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">5.5%</tspan></text>
+      <text id="_4_people" data-name="4+ people" transform="translate(65 177.2)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="-61.068" y="0">4+ People</tspan></text>
+      <text id="shopping_by" data-name="shopping by" transform="translate(288.713 32)" fill="#151d2e" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SHOPPING BY</tspan></text>
+      <rect id="Rectangle_261-2" data-name="Rectangle 261" width="26.232" height="202.26" transform="translate(489.169 40) rotate(90)" fill="#151d2e"/>
+      <text id="_41.5_" data-name="41.5%" transform="translate(495.167 58)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">41.5%</tspan></text>
+      <text id="Shopping_list" data-name="Shopping list" transform="translate(289.167 58)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Shopping List</tspan></text>
+      <rect id="Rectangle_262-2" data-name="Rectangle 262" width="26.232" height="131.02" transform="translate(417.934 70) rotate(90)" fill="#00684c"/>
+      <text id="_11.3_" data-name="11.3%" transform="translate(424.167 87)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">11.3%</tspan></text>
+      <text id="diet" transform="translate(289.167 87)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Diet</tspan></text>
+      <rect id="Rectangle_263-2" data-name="Rectangle 263" width="26.232" height="181.33" transform="translate(468.237 100) rotate(90)" fill="#00684c"/>
+      <text id="_37.7_" data-name="37.7%" transform="translate(474.167 118)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">37.7%</tspan></text>
+      <text id="Choose_at_store" data-name="Choose at store" transform="translate(289.167 118)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Choose At Store</tspan></text>
+      <rect id="Rectangle_264-2" data-name="Rectangle 264" width="26.232" height="113.82" transform="translate(400.318 130) rotate(90)" fill="#00684c"/>
+      <rect id="Rectangle_273" data-name="Rectangle 273" width="26.232" height="56.994" transform="translate(343.489 160) rotate(90)" fill="#00684c"/>
+      <text id="_6.2_" data-name="6.2%" transform="translate(406.167 147)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">6.2%</tspan></text>
+      <text id="_3.3_" data-name="3.3%" transform="translate(349.167 177)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">3.3%</tspan></text>
+      <text id="Discounted_items" data-name="Discounted items" transform="translate(289.167 147)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Discounted Items</tspan></text>
+      <text id="Recipe" transform="translate(289.167 177)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Recipe</tspan></text>
+      <text id="why_food_goes_bad" data-name="why food goes bad" transform="translate(555 32)" fill="#151d2e" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">WHY FOOD GOES BAD</tspan></text>
+      <rect id="Rectangle_261-3" data-name="Rectangle 261" width="26.232" height="211.061" transform="translate(766.474 40) rotate(90)" fill="#151d2e"/>
+      <text id="_41.5_2" data-name="41.5%" transform="translate(776.715 58)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">41.5%</tspan></text>
+      <text id="forgotten" transform="translate(557.67 58)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Forgotten</tspan></text>
+      <rect id="Rectangle_262-3" data-name="Rectangle 262" width="26.232" height="135.778" transform="translate(691.195 70) rotate(90)" fill="#00684c"/>
+      <text id="_21.6_" data-name="21.6%" transform="translate(700.951 87)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">21.6%</tspan></text>
+      <text id="overbying" transform="translate(557.67 87)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Overbying</tspan></text>
+      <rect id="Rectangle_263-3" data-name="Rectangle 263" width="26.232" height="68.091" transform="translate(623.5 100) rotate(90)" fill="#00684c"/>
+      <text id="_12.4_" data-name="12.4%" transform="translate(629.254 118)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">12.4%</tspan></text>
+      <text id="Leftovers" transform="translate(557.67 118)" fill="#fff" font-size="12" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Leftovers</tspan></text>
+      <rect id="Rectangle_264-3" data-name="Rectangle 264" width="26.232" height="72.539" transform="translate(627.539 130) rotate(90)" fill="#00684c"/>
+      <text id="_12.8_" data-name="12.8%" transform="translate(633.416 147)" fill="#0a0809" font-size="12" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">12.8%</tspan></text>
+      <text id="Nothing_to_cook_with" data-name="Nothing to 
+cook with" transform="translate(557.67 141)" fill="#f1f1f1" font-size="10" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">Nothing to </tspan><tspan x="0" y="11">cook with</tspan></text>
+    </g>
+  </g>
+</svg>

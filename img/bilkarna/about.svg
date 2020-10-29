@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2848" viewBox="0 0 1920 2848">
+  <defs>
+    <filter id="Rectangle_37" x="-9" y="-6" width="1938" height="357" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12" x="-20" y="890" width="181" height="162" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-about">
+      <rect width="1920" height="2848"/>
+    </clipPath>
+  </defs>
+  <g id="about" clip-path="url(#clip-about)">
+    <rect width="1920" height="2848" fill="#fefefe"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_37)">
+      <rect id="Rectangle_37-2" data-name="Rectangle 37" width="1920" height="339" fill="#fff" opacity="0.8"/>
+    </g>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="1920" height="544" transform="translate(0 1039)" fill="#414040"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="1774" height="641" transform="translate(73 1861)" fill="#7e7e7e" opacity="0.63"/>
+    <text id="От_всички_видове_лечения_алопатията_т.е._класическият_метод_за_лечение_е_предпочитаното_от_най-много_хора_-_защото_е_може_би_най-бързодействащият_метод_към_момента._Въпреки_че_с_лекарствата_получаваме_моментално_облекчение_например_от_болката_тези_мед" data-name="От всички видове лечения алопатията (т.е. „класическият” метод за лечение) е предпочитаното от най-много хора - защото е може би най-бързодействащият метод към момента. Въпреки че с лекарствата получаваме моментално облекчение например от болката, тези мед" transform="translate(432 536)" fill="#414040" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17">От всички видове лечения алопатията (т.е. „класическият” метод за лечение) е предпочитаното от най-много </tspan><tspan x="0" y="43">хора - защото е може би най-бързодействащият метод към момента. Въпреки че с лекарствата получаваме </tspan><tspan x="0" y="69">моментално облекчение например от болката, тези медикаменти имат много странични ефекти . Но те са </tspan><tspan x="0" y="95">забележими едва в дългосрочен план.</tspan><tspan x="0" y="121"></tspan><tspan x="0" y="147">Всеки медикамент има различни странични ефекти:</tspan><tspan x="0" y="173">- някои лекарства, съдържащи сяра, могат да доведат до тежки алергични реакции в тялото;</tspan><tspan x="0" y="199">- „Парацетамолите” имат много лош ефект върху черния дроб и увреждат бъбреците.</tspan><tspan x="0" y="225">- антибиотиците възпрепятстват растежа на бактерии и гъбички в тялото, независимо полезни или вредни. </tspan><tspan x="0" y="251">Най-тежкият ефект от антибиотиците е отслабването на имунната система в дългосрочен план.</tspan><tspan x="0" y="277"></tspan><tspan x="0" y="303">Хората, които искат да избегнат изброените негативни ефекти, обикновено определят хомеопатичните и </tspan><tspan x="0" y="329">аюрведичните лекарства като най-добрата алтернатива. </tspan><tspan x="0" y="355">Още повече, че при някои заболявания като лека кашлица и настинка можем да се лекуваме и с домашни </tspan><tspan x="0" y="381">средства и методи. </tspan><tspan x="0" y="407">Но най-важното е да запазим имунната си система силна, за да може да се бори с повечето заболявания без </tspan><tspan x="0" y="433">да е необходимо приемането на лекарства.</tspan></text>
+    <text id="Защо_да_изберете_органично_лечение_" data-name="Защо да изберете органично лечение?" transform="translate(428 501)" fill="#414040" font-size="44" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">ЗАЩО ДА ИЗБЕРЕТЕ ОРГАНИЧНО ЛЕЧЕНИЕ?</tspan></text>
+    <text id="Защо_да_Пазарувате_при_нас_" data-name="Защо да Пазарувате при нас?" transform="translate(428 1158)" fill="#fff" font-size="44" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">ЗАЩО ДА ПАЗАРУВАТЕ ПРИ НАС?</tspan></text>
+    <g id="Group_161" data-name="Group 161" transform="translate(-118 -549)">
+      <g id="Group_160" data-name="Group 160" transform="translate(270 2629)">
+        <text id="д-р_Юри_Радев" data-name="д-р Юри Радев" transform="translate(148 72)" fill="#fff" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-147.696" y="0">Д-Р ЮРИ РАДЕВ</tspan></text>
+        <text id="Собственик_мениджър_фармацевт_и_консултант._С_над_20г._опит_в_алтернативната_медицина_Юри_всеки_ден_осъществява_мечтата_си_да_предава_знания_и_да_помага_на_хората._Винаги_можете_да_разчитате_на_него." data-name="Собственик, мениджър, фармацевт и консултант. С над 20г. опит в алтернативната медицина Юри всеки ден осъществява мечтата си да предава знания и да помага на хората. Винаги можете да разчитате на него." transform="translate(0 121)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17">Собственик, мениджър, фармацевт и </tspan><tspan x="0" y="43">консултант. С над 20г. опит в </tspan><tspan x="0" y="69">алтернативната медицина Юри всеки ден </tspan><tspan x="0" y="95">осъществява мечтата си да предава знания </tspan><tspan x="0" y="121">и да помага на хората. Винаги можете да </tspan><tspan x="0" y="147">разчитате на него.</tspan></text>
+      </g>
+      <g id="Group_159" data-name="Group 159" transform="translate(857.671 2668)">
+        <text id="нина_петрова" data-name="нина петрова" transform="translate(0.329 72)" fill="#fff" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">НИНА ПЕТРОВА</tspan></text>
+        <text id="_маг.фармацевт" data-name=" маг.фармацевт" transform="translate(97.329 23)" fill="#fff" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="-96.828" y="0" xml:space="preserve"> маг.фармацевт</tspan></text>
+        <text id="Фармацевт-консултант_с_дългогодишен_опит_в_сферата._Г-жа_Петрова_познава_в_дълбочина_както_класическата_така_и_народната_медицина._От_нея_ще_получите_професионални_съвети_за_вашето_лечение." data-name="Фармацевт-консултант с  дългогодишен опит в сферата.  Г-жа Петрова познава в дълбочина както класическата, така и народната медицина. От нея ще получите професионални съвети за вашето лечение." transform="translate(0.329 121)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17" xml:space="preserve">Фармацевт-консултант с  дългогодишен </tspan><tspan x="0" y="43" xml:space="preserve">опит в сферата.  Г-жа Петрова познава в </tspan><tspan x="0" y="69">дълбочина както класическата, така и </tspan><tspan x="0" y="95">народната медицина. От нея ще получите </tspan><tspan x="0" y="121">професионални съвети за вашето лечение.</tspan></text>
+      </g>
+      <g id="Group_158" data-name="Group 158" transform="translate(1469.292 2668)">
+        <text id="МАРИЯ_МИЛЧЕВА" data-name="МАРИЯ МИЛЧЕВА" transform="translate(-0.292 72)" fill="#fff" font-size="34" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">МАРИЯ МИЛЧЕВА</tspan></text>
+        <text id="_маг.фармацевт-2" data-name=" маг.фармацевт" transform="translate(-0.292 23)" fill="#fff" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0" xml:space="preserve"> маг.фармацевт</tspan></text>
+        <text id="Създателят_на_вашите_персонални_продукти_и_медикаменти._Може_да_разчитате_на_висока_хигиена_и_точни_количества._Г-ца_Милчева_има_професионален_опит_в_смесването_на_различните_вещества_в_малки_и_големи_количества." data-name="Създателят на вашите персонални продукти и медикаменти. Може да разчитате на висока хигиена и точни количества. Г-ца Милчева има професионален опит в смесването на различните вещества в малки и големи количества." transform="translate(-0.292 121)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17">Създателят на вашите персонални </tspan><tspan x="0" y="43">продукти и медикаменти. Може да </tspan><tspan x="0" y="69">разчитате на висока хигиена и точни </tspan><tspan x="0" y="95">количества. Г-ца Милчева има </tspan><tspan x="0" y="121">професионален опит в смесването на </tspan><tspan x="0" y="147">различните вещества в малки и големи </tspan><tspan x="0" y="173">количества.</tspan></text>
+      </g>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="440" height="440" transform="translate(248 2191)" fill="#7e7e7e"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="440" height="440" transform="translate(859 2191)" fill="#7e7e7e"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="440" height="440" transform="translate(1469 2191)" fill="#7e7e7e"/>
+    </g>
+    <g id="Group_221" data-name="Group 221" transform="translate(1847 220.881)">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="72" height="72" transform="translate(0 0.5)" fill="rgba(65,64,64,0.54)"/>
+      <g id="Group_51" data-name="Group 51" transform="translate(23 21.5)">
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="10.845" cy="10.845" r="10.845" fill="none" stroke="#414040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Line_19" data-name="Line 19" x2="7.23" y2="7.23" transform="translate(18.909 18.909)" fill="none" stroke="#414040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <path id="Path_128" data-name="Path 128" d="M1692,0" transform="translate(-1621.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_223" data-name="Group 223">
+      <text id="начало" transform="translate(1089.666 269)" fill="#414040" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-74.128" y="0">НАЧАЛО</tspan></text>
+      <text id="продукти" transform="translate(1331.666 269)" fill="#414040" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-94.544" y="0">ПРОДУКТИ</tspan></text>
+      <text id="за_нас" data-name="за нас" transform="translate(1561.666 269)" fill="#414040" font-size="32" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-64.128" y="0">ЗА НАС</tspan></text>
+      <text id="чзв" transform="translate(1730.666 269)" fill="#414040" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-33.856" y="0">ЧЗВ</tspan></text>
+      <g id="Group_219" data-name="Group 219" transform="translate(155 72)">
+        <g id="Group_179" data-name="Group 179" transform="translate(246.666 117)">
+          <g id="Group_1" data-name="Group 1" transform="translate(26.5 9.5)">
+            <text id="_0888_456_781" data-name="0888 456 781" transform="translate(4 31)" fill="#202020" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">0888 456 781</tspan></text>
+            <text id="Дондуков_23" data-name="Дондуков 23" transform="translate(208 70)" fill="#202020" font-size="32" font-family="Montserrat-Regular, Montserrat"><tspan x="-207.968" y="0">Дондуков 23</tspan></text>
+          </g>
+          <line id="Line_95" data-name="Line 95" y2="88" fill="none" stroke="#202020" stroke-width="2"/>
+        </g>
+        <g id="Group_214" data-name="Group 214">
+          <g id="Group_201" data-name="Group 201">
+            <g id="Group_191" data-name="Group 191" transform="translate(39.109 153.966)">
+              <path id="Path_131" data-name="Path 131" d="M-889.74,7282" transform="translate(889.74 -7282)" fill="#171f18" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+            </g>
+            <g id="Group_192" data-name="Group 192" transform="translate(50.759 11.509)">
+              <path id="Path_132" data-name="Path 132" d="M-858.234,6994.927l-3.255-2.933a22.593,22.593,0,0,0-1.662-31.871l2.933-3.255A26.98,26.98,0,0,1-858.234,6994.927Z" transform="translate(863.152 -6956.867)" fill="#171f18"/>
+            </g>
+            <g id="Group_193" data-name="Group 193" transform="translate(8.61)">
+              <path id="Path_133" data-name="Path 133" d="M-934.651,6986.647a41.755,41.755,0,0,1-24.7-8.1l2.589-3.535A37.346,37.346,0,0,0-921.853,6980a37.128,37.128,0,0,0,21.088-19.328,37.127,37.127,0,0,0,1.245-28.577l4.117-1.5a41.48,41.48,0,0,1-1.391,31.928,41.483,41.483,0,0,1-23.561,21.593A41.755,41.755,0,0,1-934.651,6986.647Z" transform="translate(959.349 -6930.6)" fill="#171f18"/>
+            </g>
+            <g id="Group_195" data-name="Group 195" transform="translate(0 118.48)">
+              <g id="Group_194" data-name="Group 194">
+                <path id="Path_134" data-name="Path 134" d="M-933.871,7201.01v4.754l.037,0L-979,7224.9v-4.759l45.167-19.125Z" transform="translate(979 -7201.01)" fill="#171f18"/>
+              </g>
+            </g>
+            <g id="Group_196" data-name="Group 196" transform="translate(6.839 137.221)">
+              <rect id="Rectangle_22" data-name="Rectangle 22" width="4.382" height="67.789" fill="#171f18"/>
+            </g>
+            <g id="Group_197" data-name="Group 197" transform="translate(17.964 166.907)">
+              <rect id="Rectangle_23" data-name="Rectangle 23" width="4.382" height="38.104" fill="#171f18"/>
+            </g>
+            <g id="Group_198" data-name="Group 198" transform="translate(17.766 60.64)">
+              <path id="Path_135" data-name="Path 135" d="M-901.8,7213.372h-4.381v-94.86c0-22.7-7.678-31.9-29.34-35.159l-1.708-.257L-938.452,7069h38.695v4.382h-33.917l.512,5.912c22.535,3.849,31.361,14.979,31.361,39.217Z" transform="translate(938.452 -7069)" fill="#171f18"/>
+            </g>
+            <g id="Group_199" data-name="Group 199" transform="translate(52.225 69.257)">
+              <rect id="Rectangle_24" data-name="Rectangle 24" width="4.235" height="4.235" transform="translate(4.235 0) rotate(90)" fill="#171f18"/>
+            </g>
+            <g id="Group_200" data-name="Group 200" transform="translate(58.295 190.296)">
+              <rect id="Rectangle_25" data-name="Rectangle 25" width="4.235" height="14.715" fill="#171f18"/>
+            </g>
+          </g>
+          <g id="Group_213" data-name="Group 213" transform="translate(75.099 57.573)">
+            <g id="Group_202" data-name="Group 202" transform="translate(0 3.651)">
+              <path id="Path_136" data-name="Path 136" d="M-803.444,7087.575h10.876c5.5,0,8.425.73,10.9,2.527,2.639,1.91,4.044,5.279,4.044,9.38,0,4.662-1.741,8.312-4.83,10.166-2.527,1.573-8.629,2.19-13.853,2.19H-807.6v-41.506h24.319v3.764h-20.163Zm0,20.5h8.8c3.988,0,6.459-.281,8.256-.9,2.864-.954,4.549-3.706,4.549-7.638,0-3.146-1.179-5.729-3.314-6.853-1.685-1.012-4.043-1.348-7.75-1.348h-10.539Z" transform="translate(807.6 -7070.333)" fill="#171f18"/>
+            </g>
+            <g id="Group_203" data-name="Group 203" transform="translate(35.924 3.651)">
+              <path id="Path_137" data-name="Path 137" d="M-692.584,7070.333v41.506h-4.156V7076.51l-24.713,35.328h-4.156v-41.506h4.156v35.327l24.713-35.327Z" transform="translate(725.609 -7070.333)" fill="#171f18"/>
+            </g>
+            <g id="Group_204" data-name="Group 204" transform="translate(0 54.791)">
+              <path id="Path_138" data-name="Path 138" d="M-803.444,7209.236v19.32H-807.6v-41.5h4.156v19.04l18.928-19.04h5.5l-20.5,20.556,20.5,20.949h-5.617Z" transform="translate(807.6 -7187.051)" fill="#171f18"/>
+            </g>
+            <g id="Group_205" data-name="Group 205" transform="translate(79.138 54.791)">
+              <path id="Path_139" data-name="Path 139" d="M-626.983,7187.051h16.28c5.335,0,8.481.617,11.064,2.189,3.146,1.854,4.943,5.616,4.943,10.392,0,4.156-1.46,7.582-4.156,9.547-2.527,1.854-5.56,2.584-11.177,2.584h-12.8v16.793h-4.156ZM-610.309,7208c3.818,0,6.234-.394,7.975-1.405,2.19-1.179,3.426-3.762,3.426-7.021,0-4.043-1.685-6.907-4.662-7.862-1.853-.617-6.191-.9-10.291-.9h-8.966V7208Z" transform="translate(626.983 -7187.051)" fill="#171f18"/>
+            </g>
+            <g id="Group_206" data-name="Group 206" transform="translate(0 105.932)">
+              <path id="Path_140" data-name="Path 140" d="M-807.6,7303.771h4.156v18.253h21.511v-18.253h4.156v41.5h-4.156v-19.488h-21.511v19.488H-807.6Z" transform="translate(807.6 -7303.771)" fill="#171f18"/>
+            </g>
+            <g id="Group_207" data-name="Group 207" transform="translate(73.513)">
+              <path id="Path_141" data-name="Path 141" d="M-600.106,7107.567h4.438L-617.344,7062h-4.391l1.969,4.286-20.055,41.281h4.236l.788-1.455c.594-1.084,16.8-34.794,16.8-34.794Z" transform="translate(639.821 -7062)" fill="#171f18"/>
+            </g>
+            <g id="Group_208" data-name="Group 208" transform="translate(31.348 50.826)">
+              <path id="Path_142" data-name="Path 142" d="M-715.118,7216.557l15.621.222,3.157,6.789h4.439L-713.578,7178h-4.391l1.969,4.287-20.055,41.281h4.236l.788-1.346c.594-1.084,3.2-5.665,3.2-5.665Zm.889-29.184,13.107,25.24h-24.816Z" transform="translate(736.055 -7178)" fill="#171f18"/>
+            </g>
+            <g id="Group_209" data-name="Group 209" transform="translate(34.698 102.09)">
+              <path id="Path_143" data-name="Path 143" d="M-707.472,7333.558l15.621.222,3.157,6.789h4.439L-705.933,7295h-4.391l1.969,4.285-20.055,41.282h4.236l.787-1.346c.594-1.084,3.2-5.665,3.2-5.665Zm.889-29.184,13.107,25.24h-24.816Z" transform="translate(728.409 -7295.001)" fill="#171f18"/>
+            </g>
+            <g id="Group_212" data-name="Group 212" transform="translate(79.138 105.145)">
+              <g id="Group_210" data-name="Group 210" transform="translate(0 17.654)">
+                <rect id="Rectangle_26" data-name="Rectangle 26" width="4.235" height="39.543" transform="translate(39.543 0) rotate(90)" fill="#171f18"/>
+              </g>
+              <g id="Group_211" data-name="Group 211" transform="translate(17.654)">
+                <rect id="Rectangle_27" data-name="Rectangle 27" width="4.235" height="39.543" fill="#171f18"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_222" data-name="Group 222" transform="translate(35.666 -64)">
+        <text id="bg_I_en" data-name="bg I en" transform="translate(1667 187)" fill="#414040" font-size="32" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-61.504" y="0">BG</tspan><tspan y="0" xml:space="preserve" font-family="Montserrat-Regular, Montserrat" font-weight="400"> I EN</tspan></text>
+        <g id="Group_220" data-name="Group 220" transform="translate(1379 135.761)">
+          <g id="Group_153" data-name="Group 153">
+            <rect id="Rectangle_2" data-name="Rectangle 2" width="165" height="79" transform="translate(0 0.239)" fill="#414040"/>
+            <text id="ВХОД" transform="translate(83 52.239)" fill="#ececec" font-size="33" font-family="Montserrat-Regular, Montserrat"><tspan x="-49.318" y="0">ВХОД</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_157" data-name="Group 157" transform="translate(0 895)">
+      <g transform="matrix(1, 0, 0, 1, 0, -895)" filter="url(#Rectangle_12)">
+        <path id="Rectangle_12-2" data-name="Rectangle 12" d="M0,0H140a11,11,0,0,1,11,11V121a11,11,0,0,1-11,11H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 895)" fill="#414040"/>
+      </g>
+      <path id="cart" d="M.225,10.911l7.637,30.4a2.612,2.612,0,0,0,2.621,2.621h49.8l-2.1,10.483H13.1a2.621,2.621,0,1,0,0,5.242H60.279A2.618,2.618,0,0,0,62.9,57.037l9.959-49.8h8.387a2.621,2.621,0,0,0,0-5.242H70.762a2.62,2.62,0,0,0-2.621,2.621l-.524,2.621h-65A2.62,2.62,0,0,0,0,9.862a2.593,2.593,0,0,0,.225,1.048Zm61.1,27.781H52.416V12.483H66.569ZM36.691,12.483H49.8V38.691h-13.1Zm-15.725,0h13.1V38.691h-13.1Zm-2.621,0V38.691h-5.9L5.8,12.483ZM55.037,64.9A7.862,7.862,0,1,0,62.9,72.762,7.864,7.864,0,0,0,55.037,64.9Zm0,10.483a2.621,2.621,0,1,1,2.621-2.621A2.618,2.618,0,0,1,55.037,75.383ZM18.346,64.9a7.862,7.862,0,1,0,7.862,7.862A7.864,7.864,0,0,0,18.346,64.9Zm0,10.483a2.621,2.621,0,1,1,2.621-2.621A2.618,2.618,0,0,1,18.346,75.383Z" transform="translate(43.134 25)" fill="#ececec" opacity="0.77"/>
+    </g>
+    <text id="Лично_внимание" data-name="Лично внимание" transform="translate(365 1264)" fill="#fff" font-size="32" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">лично внимание</tspan></text>
+    <text id="Ние_сме_тук_за_да_Ви_помогнем._Получавате_безплатна_консултация_при_всяко_ваше_пазаруване._Приготвяме_лекарства_мехлеми_и_продукти_специално_за_Вашите_нужди_" data-name="Ние сме тук, за да Ви помогнем. Получавате безплатна консултация при всяко ваше пазаруване. Приготвяме, лекарства, мехлеми и продукти специално за Вашите нужди! " transform="translate(365 1285)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17">Ние сме тук, за да Ви помогнем. </tspan><tspan x="0" y="43">Получавате безплатна консултация </tspan><tspan x="0" y="69">при всяко ваше пазаруване. </tspan><tspan x="0" y="95">Приготвяме, лекарства, мехлеми и </tspan><tspan x="0" y="121">продукти специално за Вашите </tspan><tspan x="0" y="147">нужди! </tspan></text>
+    <text id="експертно_мнение" data-name="експертно мнение" transform="translate(774 1264)" fill="#fff" font-size="32" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">експертно мнение</tspan></text>
+    <text id="Нашите_фармацевти_имат_познания_както_в_областта_на_класическата_медицина_така_и_алтернативната._Получавате_безплатна_консултация_при_всяко_пазаруване_при_нас." data-name="Нашите фармацевти имат познания както в областта на класическата медицина, така и алтернативната. 
+Получавате безплатна консултация при всяко пазаруване при нас." transform="translate(774 1285)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17">Нашите фармацевти имат познания </tspan><tspan x="0" y="43">както в областта на класическата </tspan><tspan x="0" y="69">медицина, така и алтернативната. </tspan><tspan x="0" y="95">Получавате безплатна консултация </tspan><tspan x="0" y="121">при всяко пазаруване при нас.</tspan></text>
+    <text id="високо_качество" data-name="високо качество" transform="translate(1212 1264)" fill="#fff" font-size="32" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">високо качество</tspan></text>
+    <text id="Всички_продукти_отговарят_на_изискванията_за_сертифициране_като_натурален_и_или_органичен_продукт._Лекарствата_които_предлагаме_за_одобрени_от_СЗО." data-name="Всички продукти отговарят на изискванията за сертифициране като натурален и/ или органичен продукт. Лекарствата които предлагаме за одобрени от СЗО." transform="translate(1212 1285)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="17">Всички продукти отговарят на </tspan><tspan x="0" y="43">изискванията за сертифициране </tspan><tspan x="0" y="69">като натурален и/ или органичен </tspan><tspan x="0" y="95">продукт. Лекарствата които </tspan><tspan x="0" y="121">предлагаме за одобрени от СЗО.</tspan></text>
+    <text id="кои_сме_ние_" data-name="кои сме ние?" transform="translate(428 1603)" fill="#7e7e7e" font-size="128" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">КОИ СМЕ НИЕ?</tspan></text>
+    <rect id="Rectangle_561" data-name="Rectangle 561" width="223" height="223" transform="translate(139 72)" fill="#414040"/>
+    <text id="logo" transform="translate(251 213)" fill="#fff" font-size="83" font-family="Montserrat-Regular, Montserrat"><tspan x="-91.674" y="0">logo</tspan></text>
+    <g id="Group_1083" data-name="Group 1083" transform="translate(-106 -231)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="1920" height="124" transform="translate(106 2956)" fill="#414040"/>
+      <text id="Copyright_2020_I_Bilkarna_Ltd._I_All_rights_reserved." data-name="Copyright © 2020   I   Bilkarna Ltd.   I   All rights reserved." transform="translate(891.393 3029)" fill="rgba(255,255,255,0.64)" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0" xml:space="preserve">Copyright © 2020   </tspan><tspan y="0" xml:space="preserve">I   </tspan><tspan y="0" xml:space="preserve">Bilkarna Ltd.  </tspan><tspan y="0" xml:space="preserve"> I   </tspan><tspan y="0">All rights reserved.</tspan></text>
+      <g id="Group_247" data-name="Group 247" transform="translate(-896.607 -578)">
+        <g id="Group_246" data-name="Group 246" transform="translate(-196 34)">
+          <text id="BilkarnaSofia" transform="translate(1279 3571)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">BilkarnaSofia</tspan></text>
+        </g>
+        <g id="Group_245" data-name="Group 245" transform="translate(44 -3)">
+          <text id="Bilkarna.drugstore" transform="translate(1501 3608)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="-222.312" y="0">Bilkarna.drugstore</tspan></text>
+        </g>
+      </g>
+      <g id="Group_250" data-name="Group 250" transform="translate(1059.393 -332)">
+        <g id="Group_248" data-name="Group 248" transform="translate(132)">
+          <g id="Group_245-2" data-name="Group 245" transform="translate(-682 -249)">
+            <text id="Дондуков_23-2" data-name="Дондуков 23" transform="translate(1436 3608)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="-155.976" y="0">Дондуков 23</tspan></text>
+          </g>
+        </g>
+        <g id="Group_249" data-name="Group 249" transform="translate(130.616)">
+          <g id="Group_246-2" data-name="Group 246" transform="translate(-916 -212)">
+            <text id="_0888_456_781-2" data-name="0888 456 781" transform="translate(1279 3571)" fill="#efefef" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">0888 456 781</tspan></text>
+          </g>
+        </g>
+      </g>
+      <text id="политика_за_поверителност_обработка_на_лични_данни_общи_условия" data-name="политика за поверителност          обработка на лични данни          общи условия" transform="translate(731 2928)" fill="#171f18" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0" xml:space="preserve">политика за поверителност          обработка на лични данни          общи условия</tspan></text>
+    </g>
+  </g>
+</svg>

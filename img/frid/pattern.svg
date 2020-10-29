@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="923" height="215.84" viewBox="0 0 923 215.84">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6c5f69" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0a0809" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a0809" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#6c5f69" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="pattern" transform="translate(-207 -2621)">
+    <rect id="Rectangle_287" data-name="Rectangle 287" width="923" height="215.84" transform="translate(207 2621)" fill="#fff"/>
+    <g id="Group_570" data-name="Group 570" transform="translate(269 2647)">
+      <path id="Union_8" data-name="Union 8" d="M8.738,106.67.257,97.215A1,1,0,0,1,1,95.548H5.461V0h8V95.548h4.5a1,1,0,0,1,.744,1.668l-8.48,9.454a1,1,0,0,1-1.489,0Z" transform="matrix(-0.259, -0.966, 0.966, -0.259, 116.453, 48.276)" fill="url(#linear-gradient)"/>
+      <path id="Union_9" data-name="Union 9" d="M5.462,107V11.454H1A1,1,0,0,1,.258,9.787L8.738.332a1,1,0,0,1,1.489,0l8.48,9.455a1,1,0,0,1-.744,1.668h-4.5V107Z" transform="matrix(-0.259, 0.966, -0.966, -0.259, 683.576, 29.957)" fill="url(#linear-gradient-2)"/>
+      <path id="Union_11" data-name="Union 11" d="M5.462,236V11.454H1A1,1,0,0,1,.257,9.787L8.737.332a1,1,0,0,1,1.49,0l8.48,9.455a1,1,0,0,1-.744,1.668h-4.5V236Z" transform="translate(300.468 151.668) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <g id="Group_1039" data-name="Group 1039" transform="translate(-49 56.578)">
+        <g id="Group_1035" data-name="Group 1035">
+          <text id="Tracking:" transform="translate(92 15.422)" fill="#0a0809" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-92.016" y="0">TRACKING:</tspan></text>
+          <text id="Usually_forget." data-name="Usually forget." transform="translate(100 34.422)" fill="#b566a6" font-size="14" font-family="Muli-Bold, Muli" font-weight="700" opacity="0.5"><tspan x="0" y="0">Usually forget.</tspan></text>
+          <text id="Don_t_know_the_quantities." data-name="Don&apos;t know the quantities." transform="translate(100 14.422)" fill="#b566a6" font-size="14" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">Don&apos;t know the quantities.</tspan></text>
+          <text id="Keep_note_on_fridge_Take_notes_on_phone_Ask_roommate_" data-name="Keep note on fridge
+Take notes on phone
+Ask roommate " transform="translate(100 41.835)" fill="#0a0809" font-size="16" font-family="Muli"><tspan x="0" y="16">Keep note on fridge</tspan><tspan x="0" y="38">Take notes on phone</tspan><tspan x="0" y="60">Ask roommate </tspan></text>
+        </g>
+        <g id="Group_1036" data-name="Group 1036" transform="translate(632 2.835)">
+          <text id="Cooking:" transform="translate(85 15)" fill="#0a0809" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-85.04" y="0">COOKING:</tspan></text>
+          <text id="Don_t_know_what_to_cook." data-name="Don&apos;t know what to cook." transform="translate(93 14)" fill="#b566a6" font-size="14" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">Don&apos;t know what to cook.</tspan></text>
+          <text id="Hard_to_prepare." data-name="Hard to prepare." transform="translate(93 34)" fill="#b566a6" font-size="14" font-family="Muli-Bold, Muli" font-weight="700" opacity="0.5"><tspan x="0" y="0">Hard to prepare.</tspan></text>
+          <text id="Look_for_recipe_Experiment_Order_food_" data-name="Look for recipe
+Experiment
+Order food
+" transform="translate(93 42)" fill="#0a0809" font-size="16" font-family="Muli"><tspan x="0" y="16">Look For Recipe</tspan><tspan x="0" y="38">Experiment</tspan><tspan x="0" y="60">Order Food</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1038" data-name="Group 1038" transform="translate(259 -6)">
+        <text id="Shopping:" transform="translate(94 15)" fill="#0a0809" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-94.448" y="0">SHOPPING:</tspan></text>
+        <g id="Group_1037" data-name="Group 1037" transform="translate(102)">
+          <text id="Don_t_know_what_to_buy." data-name="Don&apos;t know what to buy." transform="translate(0 14)" fill="#b566a6" font-size="14" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">Don&apos;t know what to buy.</tspan></text>
+          <text id="Overshopping._" data-name="Overshopping. " transform="translate(0 34)" fill="#b566a6" font-size="14" font-family="Muli-Bold, Muli" font-weight="700" opacity="0.5"><tspan x="0" y="0">Overshopping. </tspan></text>
+          <text id="Make_shopping_list_Shop_recipe_ingredients_Buy_convenience_food" data-name="Make shopping list
+Shop recipe ingredients
+Buy convenience food" transform="translate(0 41.924)" fill="#0a0809" font-size="16" font-family="Muli"><tspan x="0" y="16">Make shopping list</tspan><tspan x="0" y="38">Shop recipe ingredients</tspan><tspan x="0" y="60">Buy convenience food</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

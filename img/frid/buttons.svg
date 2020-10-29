@@ -1,0 +1,418 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="675" height="560" viewBox="0 0 675 560">
+  <defs>
+    <filter id="Rectangle_215" x="470" y="170" width="114" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_215-2" x="470" y="128" width="115" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_45" x="365.211" y="127.896" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#151d2e" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_46" x="355.211" y="123.896" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#fff" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_45-2" x="313" y="121" width="76.611" height="76.611" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#151d2e" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_46-2" x="303" y="117" width="76.611" height="76.611" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#fff" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask" x="347" y="453" width="114.405" height="41.071" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask-2" x="347" y="490" width="114.405" height="41.071" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background" x="31" y="487" width="300.623" height="44.367" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.357"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Mask-3" data-name="Mask" d="M13.066.076C14.5-.006,15.932,0,17.365,0H24.63c1.462,0,2.894-.007,4.327.076a17.835,17.835,0,0,1,3.835.586,12.559,12.559,0,0,1,0,24.22,17.886,17.886,0,0,1-3.835.586c-1.433.082-2.865.075-4.3.075H17.392c-1.46,0-2.892.007-4.326-.076a17.887,17.887,0,0,1-3.834-.586,12.559,12.559,0,0,1,0-24.22A17.835,17.835,0,0,1,13.066.076Z" transform="translate(0 0)" fill="rgba(120,120,128,0.16)"/>
+    </clipPath>
+    <filter id="knob" x="488.148" y="486.147" width="47.247" height="47.247" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-10"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="knob-2" x="557.718" y="486.148" width="47.247" height="47.247" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-11"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_215-3" x="299" y="298" width="42" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="knob-3" x="257.5" y="297.5" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="buttons" transform="translate(-337 -4019)">
+    <rect id="Rectangle_632" data-name="Rectangle 632" width="675" height="560" transform="translate(337 4019)" fill="#0a101d"/>
+    <g id="btns" transform="translate(0 -22)">
+      <g id="Group_1543" data-name="Group 1543" transform="translate(140 -130)">
+        <g id="Group_535" data-name="Group 535" transform="translate(317.614 4269.102)">
+          <g id="Rectangle_277" data-name="Rectangle 277" transform="translate(60.386 -0.102)" fill="none" stroke="#00e9a3" stroke-width="1">
+            <rect width="118" height="38" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="117" height="37" rx="7.5" fill="none"/>
+          </g>
+          <text id="Label" transform="translate(68.386 9.898)" fill="#f1f1f1" font-size="16" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="0.632" y="16">SECONDARY</tspan></text>
+        </g>
+        <g id="Group_535-2" data-name="Group 535" transform="translate(317.614 4317.102)" opacity="0.5">
+          <g id="Rectangle_277-2" data-name="Rectangle 277" transform="translate(60.386 -0.102)" fill="none" stroke="#00e9a3" stroke-width="1">
+            <rect width="118" height="38" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="117" height="37" rx="7.5" fill="none"/>
+          </g>
+          <text id="Label-2" data-name="Label" transform="translate(68.386 9.898)" fill="#f1f1f1" font-size="16" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="0.632" y="16">SECONDARY</tspan></text>
+        </g>
+        <g id="Group_1345" data-name="Group 1345" transform="translate(-481 -1143)">
+          <text id="_118_x_38" data-name="118 x 38" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">118 x 38</tspan></text>
+          <text id="border:_1px_solid_border-radius:_8px_" data-name="border: 1px solid;
+border-radius: 8px;" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border: 1px solid;</tspan><tspan x="0" y="18">border-radius: 8px;</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1542" data-name="Group 1542" transform="translate(1 23)">
+        <g id="Group_534" data-name="Group 534" transform="translate(308.614 4097.603)">
+          <rect id="Rectangle_277-3" data-name="Rectangle 277" width="104" height="38" rx="8" transform="translate(67.386 0.397)" fill="#00e9a3"/>
+          <text id="Label-3" data-name="Label" transform="translate(75.386 10.397)" fill="#151d2e" font-size="16" font-family="Muli-ExtraBold, Muli" font-weight="800" letter-spacing="0.004em"><tspan x="6.752" y="16">PRIMARY </tspan></text>
+        </g>
+        <g id="Group_534-2" data-name="Group 534" transform="translate(308.614 4145.603)" opacity="0.5">
+          <rect id="Rectangle_277-4" data-name="Rectangle 277" width="104" height="38" rx="8" transform="translate(67.386 0.397)" fill="#00e9a3"/>
+          <text id="Label-4" data-name="Label" transform="translate(75.386 10.397)" fill="#151d2e" font-size="16" font-family="Muli-ExtraBold, Muli" font-weight="800" letter-spacing="0.004em"><tspan x="6.752" y="16">PRIMARY </tspan></text>
+        </g>
+        <g id="Group_1541" data-name="Group 1541" transform="translate(-486 -1296)">
+          <text id="_118_x_38-2" data-name="118 x 38" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">118 x 38</tspan></text>
+          <text id="border-radius:_8px_" data-name="border-radius: 8px;" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border-radius: 8px;</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1552" data-name="Group 1552" transform="translate(263 26)">
+        <g id="Group_1004" data-name="Group 1004" transform="translate(531 4005)">
+          <g transform="matrix(1, 0, 0, 1, -457, 10)" filter="url(#Rectangle_215)">
+            <rect id="Rectangle_215-4" data-name="Rectangle 215" width="96" height="32" rx="16" transform="translate(479 176)" fill="#00010e" opacity="0.72"/>
+          </g>
+          <text id="binary" transform="translate(70 207)" fill="#f1f1f1" font-size="13" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="-19.929" y="0">binary</tspan></text>
+        </g>
+        <g id="Group_1005" data-name="Group 1005" transform="translate(421 3963)">
+          <g transform="matrix(1, 0, 0, 1, -347, 52)" filter="url(#Rectangle_215-2)">
+            <g id="Rectangle_215-5" data-name="Rectangle 215" transform="translate(479 134)" fill="rgba(83,172,158,0.36)" stroke="#00e9a3" stroke-width="2">
+              <rect width="97" height="32" rx="16" stroke="none"/>
+              <rect x="1" y="1" width="95" height="30" rx="15" fill="none"/>
+            </g>
+          </g>
+          <text id="binary-2" data-name="binary" transform="translate(181 207)" fill="#f1f1f1" font-size="13" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="-19.929" y="0">binary</tspan></text>
+        </g>
+        <g id="Group_1544" data-name="Group 1544" transform="translate(-309 -1299)">
+          <text id="_97_x_32" data-name="97 x 32" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">97 x 32</tspan></text>
+          <text id="border:_2px_solid_border-radius:_50_box-shadow:_0px_3px_6px_0px_rgba_0_0_0_0.4_" data-name="border: 2px solid;
+border-radius: 50%;
+box-shadow: 0px 3px 6px 0px
+ rgba(0,0,0,0.4);" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border: 2px solid;</tspan><tspan x="0" y="18">border-radius: 50%;</tspan><tspan x="0" y="36">box-shadow: 0px 3px 6px 0px</tspan><tspan x="0" y="54" xml:space="preserve"> rgba(0,0,0,0.4);</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1553" data-name="Group 1553" transform="translate(284 -118)">
+        <g id="Group_697" data-name="Group 697" transform="translate(461.211 4293) rotate(90)">
+          <g id="add.button" transform="translate(6.896 0)">
+            <g transform="matrix(0, -1, 1, 0, -140.9, 408.21)" filter="url(#Ellipse_45)">
+              <g id="Ellipse_45-3" data-name="Ellipse 45" transform="translate(407.21 140.9) rotate(90)" fill="#00e9a3" stroke="#242e42" stroke-width="0.5">
+                <circle cx="16" cy="16" r="16" stroke="none"/>
+                <circle cx="16" cy="16" r="15.75" fill="none"/>
+              </g>
+            </g>
+            <g transform="matrix(0, -1, 1, 0, -140.9, 408.21)" filter="url(#Ellipse_46)">
+              <g id="Ellipse_46-3" data-name="Ellipse 46" transform="translate(407.21 140.9) rotate(90)" fill="#00e9a3" stroke="#0a101d" stroke-width="0.5">
+                <circle cx="16" cy="16" r="16" stroke="none"/>
+                <circle cx="16" cy="16" r="15.75" fill="none"/>
+              </g>
+            </g>
+            <g id="Group_333" data-name="Group 333" transform="translate(9.584 10.577)">
+              <line id="Line_4" data-name="Line 4" y1="13.202" transform="translate(6.592)" fill="none" stroke="#0a101d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+              <line id="Line_5" data-name="Line 5" x1="13.203" transform="translate(0 6.611)" fill="none" stroke="#0a101d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="add.button-2" data-name="add.button" transform="translate(0 61.906) rotate(-45)">
+            <g transform="matrix(0.71, -0.71, 0.71, 0.71, -339.63, 150.12)" filter="url(#Ellipse_45-2)">
+              <g id="Ellipse_45-4" data-name="Ellipse 45" transform="translate(346.31 134) rotate(45)" fill="#00e9a3" stroke="#242e42" stroke-width="0.5" opacity="0">
+                <circle cx="16.479" cy="16.479" r="16.479" stroke="none"/>
+                <circle cx="16.479" cy="16.479" r="16.229" fill="none"/>
+              </g>
+            </g>
+            <g transform="matrix(0.71, -0.71, 0.71, 0.71, -339.63, 150.12)" filter="url(#Ellipse_46-2)">
+              <g id="Ellipse_46-4" data-name="Ellipse 46" transform="translate(346.31 134) rotate(45)" fill="#00e9a3" stroke="#242e42" stroke-width="0.5" opacity="0">
+                <circle cx="16.479" cy="16.479" r="16.479" stroke="none"/>
+                <circle cx="16.479" cy="16.479" r="16.229" fill="none"/>
+              </g>
+            </g>
+            <g id="Group_333-2" data-name="Group 333" transform="translate(9.888 9.869)">
+              <line id="Line_4-2" data-name="Line 4" y1="13.203" transform="translate(6.592 0)" fill="none" stroke="#00e9a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+              <line id="Line_5-2" data-name="Line 5" x1="13.203" transform="translate(0 6.611)" fill="none" stroke="#00e9a3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1545" data-name="Group 1545" transform="translate(-486 -1155)">
+          <text id="x32_" data-name="x32 " transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">x32 </tspan></text>
+          <text id="border:_0.5px_solid_box-shadow:_-5px_-2px_10px_0px_rgba_255_255_255_0.1_" data-name="border: 0.5px solid;
+box-shadow: 
+-5px -2px 10px 0px 
+rgba(255,255,255,0.1);" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border: 0.5px solid;</tspan><tspan x="0" y="18">box-shadow: </tspan><tspan x="0" y="36">-5px -2px 10px 0px </tspan><tspan x="0" y="54">rgba(255,255,255,0.1);</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1550" data-name="Group 1550" transform="translate(-209 199)">
+        <g id="Group_1536" data-name="Group 1536" transform="translate(902 4301)">
+          <g transform="matrix(1, 0, 0, 1, -356, -459)" filter="url(#Mask)">
+            <g id="Mask-5" data-name="Mask" transform="translate(356 459)" fill="#151d2e">
+              <path d="M5.768,0H90.637A5.768,5.768,0,0,1,96.4,5.768V17.3a5.768,5.768,0,0,1-5.768,5.768H5.768A5.768,5.768,0,0,1,0,17.3V5.768A5.768,5.768,0,0,1,5.768,0Z" stroke="none"/>
+              <path d="M 5.767814636230469 0.5000019073486328 C 2.863128662109375 0.5000019073486328 0.5000076293945313 2.863126754760742 0.5000076293945313 5.767814636230469 L 0.5000076293945313 17.30346298217773 C 0.5000076293945313 20.20815086364746 2.863128662109375 22.57127571105957 5.767814636230469 22.57127571105957 L 90.63715362548828 22.57127571105957 C 93.54183959960938 22.57127571105957 95.90497589111328 20.20815086364746 95.90497589111328 17.30346298217773 L 95.90497589111328 5.767814636230469 C 95.90497589111328 2.863126754760742 93.54183959960938 0.5000019073486328 90.63715362548828 0.5000019073486328 L 5.767814636230469 0.5000019073486328 M 5.767814636230469 1.9073486328125e-06 L 90.63715362548828 1.9073486328125e-06 C 93.82263946533203 1.9073486328125e-06 96.40497589111328 2.582338333129883 96.40497589111328 5.767814636230469 L 96.40497589111328 17.30346298217773 C 96.40497589111328 20.48893928527832 93.82263946533203 23.07127571105957 90.63715362548828 23.07127571105957 L 5.767814636230469 23.07127571105957 C 2.582344055175781 23.07127571105957 7.62939453125e-06 20.48893928527832 7.62939453125e-06 17.30346298217773 L 7.62939453125e-06 5.767814636230469 C 7.62939453125e-06 2.582338333129883 2.582344055175781 1.9073486328125e-06 5.767814636230469 1.9073486328125e-06 Z" stroke="none" fill="rgba(0,0,0,0.04)"/>
+            </g>
+          </g>
+          <text id="Button" transform="translate(47.27 15.35)" fill="#b15ea2" font-size="10" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="-16.245" y="0">Button</tspan></text>
+        </g>
+        <g id="Group_1537" data-name="Group 1537" transform="translate(902 4338)">
+          <g transform="matrix(1, 0, 0, 1, -356, -496)" filter="url(#Mask-2)">
+            <g id="Mask-6" data-name="Mask" transform="translate(356 496)" fill="#0d1321">
+              <path d="M5.768,0H90.637A5.768,5.768,0,0,1,96.4,5.768V17.3a5.768,5.768,0,0,1-5.768,5.768H5.768A5.768,5.768,0,0,1,0,17.3V5.768A5.768,5.768,0,0,1,5.768,0Z" stroke="none"/>
+              <path d="M 5.767814636230469 0.5000019073486328 C 2.863128662109375 0.5000019073486328 0.5000076293945313 2.863126754760742 0.5000076293945313 5.767814636230469 L 0.5000076293945313 17.30346298217773 C 0.5000076293945313 20.20815086364746 2.863128662109375 22.57127571105957 5.767814636230469 22.57127571105957 L 90.63715362548828 22.57127571105957 C 93.54183959960938 22.57127571105957 95.90497589111328 20.20815086364746 95.90497589111328 17.30346298217773 L 95.90497589111328 5.767814636230469 C 95.90497589111328 2.863126754760742 93.54183959960938 0.5000019073486328 90.63715362548828 0.5000019073486328 L 5.767814636230469 0.5000019073486328 M 5.767814636230469 1.9073486328125e-06 L 90.63715362548828 1.9073486328125e-06 C 93.82263946533203 1.9073486328125e-06 96.40497589111328 2.582338333129883 96.40497589111328 5.767814636230469 L 96.40497589111328 17.30346298217773 C 96.40497589111328 20.48893928527832 93.82263946533203 23.07127571105957 90.63715362548828 23.07127571105957 L 5.767814636230469 23.07127571105957 C 2.582344055175781 23.07127571105957 7.62939453125e-06 20.48893928527832 7.62939453125e-06 17.30346298217773 L 7.62939453125e-06 5.767814636230469 C 7.62939453125e-06 2.582338333129883 2.582344055175781 1.9073486328125e-06 5.767814636230469 1.9073486328125e-06 Z" stroke="none" fill="rgba(0,0,0,0.04)"/>
+            </g>
+          </g>
+          <text id="Button-2" data-name="Button" transform="translate(47.27 15.35)" fill="#b15ea2" font-size="10" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="-16.245" y="0">Button</tspan></text>
+        </g>
+        <g id="Group_1548" data-name="Group 1548" transform="translate(40 -1129)">
+          <text id="_96_x_23" data-name="96 x 23" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">96 x 23</tspan></text>
+          <text id="border-radius:_8px_box-shadow:_0px_3px_6px_0px_rgba_0_0_0_0.16_" data-name="border-radius: 8px;
+box-shadow: 0px 3px 6px 0px 
+rgba(0,0,0,0.16);" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border-radius: 8px;</tspan><tspan x="0" y="18">box-shadow: 0px 3px 6px 0px </tspan><tspan x="0" y="36">rgba(0,0,0,0.16);</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1551" data-name="Group 1551" transform="translate(-413 104)">
+        <g id="Group_1540" data-name="Group 1540" transform="translate(789.614 4277.43)">
+          <g id="Rectangle_326" data-name="Rectangle 326" transform="translate(63.386 -0.43)" fill="rgba(241,241,241,0.24)" stroke="#f1f1f1" stroke-width="1" opacity="0">
+            <rect width="49" height="23" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="48" height="22" rx="3.5" fill="none"/>
+          </g>
+          <g id="Rectangle_327" data-name="Rectangle 327" transform="translate(127.386 -0.43)" fill="rgba(241,241,241,0.24)" stroke="#f1f1f1" stroke-width="1" opacity="0">
+            <rect width="48" height="23" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="47" height="22" rx="3.5" fill="none"/>
+          </g>
+          <g id="Rectangle_325" data-name="Rectangle 325" transform="translate(0.386 -0.43)" fill="rgba(241,241,241,0.24)" stroke="#f1f1f1" stroke-width="1">
+            <rect width="48" height="23" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="47" height="22" rx="3.5" fill="none"/>
+          </g>
+          <g id="Separator" transform="translate(55.412 3.821)">
+            <rect id="Separator-2" data-name="Separator" width="1" height="14" transform="translate(-0.025 -0.251)" fill="#8e8e93" opacity="0.301"/>
+          </g>
+          <g id="Separator-3" data-name="Separator" transform="translate(119.422 3.821)">
+            <rect id="Separator-4" data-name="Separator" width="1" height="14" transform="translate(-0.036 -0.251)" fill="#8e8e93" opacity="0.301"/>
+          </g>
+          <text id="opt." transform="translate(25.386 12.57)" fill="#f1f1f1" font-size="9" font-family="Muli"><tspan x="-7.947" y="0">opt.</tspan></text>
+          <text id="opt.-2" data-name="opt." transform="translate(86.386 12.57)" fill="#f1f1f1" font-size="9" font-family="Muli" opacity="0.5"><tspan x="-7.947" y="0">opt.</tspan></text>
+          <text id="opt.-3" data-name="opt." transform="translate(151.386 12.57)" fill="#f1f1f1" font-size="9" font-family="Muli" opacity="0.5"><tspan x="-7.947" y="0">opt.</tspan></text>
+        </g>
+        <g id="Group_1549" data-name="Group 1549" transform="translate(-72 -1189)">
+          <text id="_175_x_23" data-name="175 x 23" transform="translate(916 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.48"><tspan x="0" y="0">175 x 23</tspan></text>
+          <text id="_48_x_23" data-name="48 x 23" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">48 x 23</tspan></text>
+          <text id="padding:_0px_7px_border:_1px_solid_border-radius:_4px_box-shadow:_0px_3px_6px_0px_rgba_0_0_0_0.16_" data-name="padding: 0px 7px;
+border: 1px solid;
+border-radius: 4px;
+box-shadow: 0px 3px 6px 0px 
+rgba(0,0,0,0.16);" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">padding: 0px 7px;</tspan><tspan x="0" y="18">border: 1px solid;</tspan><tspan x="0" y="36">border-radius: 4px;</tspan><tspan x="0" y="54">box-shadow: 0px 3px 6px 0px </tspan><tspan x="0" y="72">rgba(0,0,0,0.16);</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1547" data-name="Group 1547" transform="translate(-341 319)">
+        <g id="Controls_-_Segmented_Control_-_Dark_-_3_Buttons" data-name="Controls - Segmented Control - Dark - 3 Buttons" transform="translate(718 4215)">
+          <g transform="matrix(1, 0, 0, 1, -40, -493)" filter="url(#Background)">
+            <g id="Background-2" data-name="Background" transform="translate(40 493)" fill="#151d2e">
+              <path d="M 275.2073974609375 26.21715927124023 L 7.415783405303955 26.21715927124023 C 3.40942645072937 26.21715927124023 0.1499977856874466 22.95776557922363 0.1499977856874466 18.95140838623047 L 0.1499977856874466 7.415765762329102 C 0.1499977856874466 3.409408569335938 3.40942645072937 0.150015652179718 7.415783405303955 0.150015652179718 L 275.2073974609375 0.150015652179718 C 279.2137451171875 0.150015652179718 282.47314453125 3.409408569335938 282.47314453125 7.415765762329102 L 282.47314453125 18.95140838623047 C 282.47314453125 22.95776557922363 279.2137451171875 26.21715927124023 275.2073974609375 26.21715927124023 Z" stroke="none"/>
+              <path d="M 7.415771484375 0.3000164031982422 C 3.49212646484375 0.3000164031982422 0.29998779296875 3.492122650146484 0.29998779296875 7.415765762329102 L 0.29998779296875 18.95140838623047 C 0.29998779296875 22.87505149841309 3.49212646484375 26.06715774536133 7.415771484375 26.06715774536133 L 275.2073974609375 26.06715774536133 C 279.1310424804688 26.06715774536133 282.3231506347656 22.87505149841309 282.3231506347656 18.95140838623047 L 282.3231506347656 7.415765762329102 C 282.3231506347656 3.492122650146484 279.1310424804688 0.3000164031982422 275.2073974609375 0.3000164031982422 L 7.415771484375 0.3000164031982422 M 7.415771484375 1.52587890625e-05 L 275.2073974609375 1.52587890625e-05 C 279.3029479980469 1.52587890625e-05 282.6231384277344 3.320158004760742 282.6231384277344 7.415765762329102 L 282.6231384277344 18.95140838623047 C 282.6231384277344 23.04701614379883 279.3029479980469 26.36715888977051 275.2073974609375 26.36715888977051 L 7.415771484375 26.36715888977051 C 3.32012939453125 26.36715888977051 0 23.04701614379883 0 18.95140838623047 L 0 7.415765762329102 C 0 3.320158004760742 3.32012939453125 1.52587890625e-05 7.415771484375 1.52587890625e-05 Z" stroke="none" fill="#000714"/>
+            </g>
+          </g>
+          <g id="Separator-5" data-name="Separator" transform="translate(93.914 6.409)">
+            <rect id="Separator-6" data-name="Separator" width="0.955" height="13.375" transform="translate(0 0)" fill="#8e8e93" opacity="0.301"/>
+          </g>
+          <g id="Separator-7" data-name="Separator" transform="translate(187.54 6.409)">
+            <rect id="Separator-8" data-name="Separator" width="0.955" height="13.375" transform="translate(0 0)" fill="#8e8e93" opacity="0.301"/>
+          </g>
+          <g id="Option_3" data-name="Option 3" transform="translate(185.63 1.632)">
+            <rect id="Mask-7" data-name="Mask" width="94.582" height="22.929" transform="translate(0 0)" fill="#f1f1f1" opacity="0"/>
+            <text id="option" transform="translate(46.527 14.776)" fill="#b15ea2" font-size="10" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="-15.31" y="0">option</tspan></text>
+          </g>
+          <g id="Option_2" data-name="Option 2" transform="translate(93.914 1.632)">
+            <rect id="Mask-8" data-name="Mask" width="94.582" height="22.929" transform="translate(0 0)" fill="none"/>
+            <text id="option-2" data-name="option" transform="translate(46.527 14.776)" fill="#b15ea2" font-size="10" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="-15.31" y="0">option</tspan></text>
+          </g>
+          <g id="Option_1" data-name="Option 1" transform="translate(1.243 1.632)">
+            <g id="Mask-9" data-name="Mask" transform="translate(0 0)" fill="#0a101d" opacity="0.72">
+              <path d="M7,0H84.493a7,7,0,0,1,7,7v8.929a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" stroke="none"/>
+              <path d="M 7.000007629394531 0.4999980926513672 C 3.415885925292969 0.4999980926513672 0.5000076293945313 3.41588020324707 0.5000076293945313 6.999998092651367 L 0.5000076293945313 15.92896270751953 C 0.5000076293945313 19.51308059692383 3.415885925292969 22.42896270751953 7.000007629394531 22.42896270751953 L 84.49270629882813 22.42896270751953 C 88.07682800292969 22.42896270751953 90.99270629882813 19.51308059692383 90.99270629882813 15.92896270751953 L 90.99270629882813 6.999998092651367 C 90.99270629882813 3.41588020324707 88.07682800292969 0.4999980926513672 84.49270629882813 0.4999980926513672 L 7.000007629394531 0.4999980926513672 M 7.000007629394531 -1.9073486328125e-06 L 84.49270629882813 -1.9073486328125e-06 C 88.35869598388672 -1.9073486328125e-06 91.49270629882813 3.134010314941406 91.49270629882813 6.999998092651367 L 91.49270629882813 15.92896270751953 C 91.49270629882813 19.79495048522949 88.35869598388672 22.92896270751953 84.49270629882813 22.92896270751953 L 7.000007629394531 22.92896270751953 C 3.134002685546875 22.92896270751953 7.62939453125e-06 19.79495048522949 7.62939453125e-06 15.92896270751953 L 7.62939453125e-06 6.999998092651367 C 7.62939453125e-06 3.134010314941406 3.134002685546875 -1.9073486328125e-06 7.000007629394531 -1.9073486328125e-06 Z" stroke="none" fill="rgba(0,0,0,0.04)"/>
+            </g>
+            <text id="option-3" data-name="option" transform="translate(47.483 14.776)" fill="#b15ea2" font-size="10" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.004em"><tspan x="-15.31" y="0">option</tspan></text>
+          </g>
+        </g>
+        <g id="Group_1546" data-name="Group 1546" transform="translate(-144 -1207)">
+          <text id="_282_x_26" data-name="282 x 26" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">282 x 26</tspan></text>
+          <text id="_91.5_x_23" data-name="91.5 x 23" transform="translate(922 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.48"><tspan x="0" y="0">91.5 x 23</tspan></text>
+          <text id="border:_1.5px_solid_border-radius:_8px_box-shadow:_0px_3px_6px_0px_rgba_0_0_0_0.36_" data-name="border: 1.5px solid;
+border-radius: 8px;
+box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.36);" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border: 1.5px solid;</tspan><tspan x="0" y="18">border-radius: 8px;</tspan><tspan x="0" y="36">box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.36);</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1555" data-name="Group 1555" transform="translate(161 254)">
+        <g id="Group_1538" data-name="Group 1538" transform="translate(-4237 -6158)">
+          <g id="Group_1006" data-name="Group 1006" transform="translate(5)">
+            <g id="Right_Accessory" data-name="Right Accessory" transform="translate(4907 10439)">
+              <g id="Switch">
+                <rect id="Switch_background" data-name="Switch background" width="42" height="26" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+                <path id="Mask-10" data-name="Mask" d="M13.066.076C14.5-.006,15.932,0,17.365,0H24.63c1.462,0,2.894-.007,4.327.076a17.835,17.835,0,0,1,3.835.586,12.559,12.559,0,0,1,0,24.22,17.886,17.886,0,0,1-3.835.586c-1.433.082-2.865.075-4.3.075H17.392c-1.46,0-2.892.007-4.326-.076a17.887,17.887,0,0,1-3.834-.586,12.559,12.559,0,0,1,0-24.22A17.835,17.835,0,0,1,13.066.076Z" transform="translate(0 0)" fill="rgba(120,120,128,0.16)"/>
+                <g id="Switch-2" data-name="Switch" transform="translate(0 0)" clip-path="url(#clip-path)">
+                  <g transform="matrix(1, 0, 0, 1, -499, -494)" filter="url(#knob)">
+                    <g id="knob-4" data-name="knob" transform="translate(500.65 495.65)" fill="#f1f1f1">
+                      <path d="M11.124,0A11.124,11.124,0,1,1,0,11.124,11.124,11.124,0,0,1,11.124,0Z" stroke="none"/>
+                      <path d="M 11.1236515045166 1.9073486328125e-06 C 4.980232238769531 1.9073486328125e-06 1.9073486328125e-06 4.980232238769531 1.9073486328125e-06 11.1236515045166 C 1.9073486328125e-06 17.26707077026367 4.980232238769531 22.24730110168457 11.1236515045166 22.24730110168457 C 17.26707077026367 22.24730110168457 22.24730110168457 17.26707077026367 22.24730110168457 11.1236515045166 C 22.24730110168457 4.980232238769531 17.26707077026367 1.9073486328125e-06 11.1236515045166 1.9073486328125e-06 M 11.1236515045166 -0.4999980926513672 C 14.22844123840332 -0.4999980926513672 17.14739227294922 0.7090721130371094 19.34281158447266 2.904491424560547 C 21.53823089599609 5.099910736083984 22.74730110168457 8.018861770629883 22.74730110168457 11.1236515045166 C 22.74730110168457 14.22844123840332 21.53823089599609 17.14739227294922 19.34281158447266 19.34281158447266 C 17.14739227294922 21.53823089599609 14.22844123840332 22.74730110168457 11.1236515045166 22.74730110168457 C 8.018861770629883 22.74730110168457 5.099910736083984 21.53823089599609 2.904491424560547 19.34281158447266 C 0.7090721130371094 17.14739227294922 -0.4999980926513672 14.22844123840332 -0.4999980926513672 11.1236515045166 C -0.4999980926513672 8.018861770629883 0.7090721130371094 5.099910736083984 2.904491424560547 2.904491424560547 C 5.099910736083984 0.7090721130371094 8.018861770629883 -0.4999980926513672 11.1236515045166 -0.4999980926513672 Z" stroke="none" fill="rgba(0,0,0,0.04)"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_704" data-name="Group 704" transform="translate(4960.09 10438.881)">
+              <rect id="Switch_background-2" data-name="Switch background" width="43" height="25" transform="translate(-0.09 0.444)" fill="rgba(0,0,0,0)"/>
+              <path id="Mask-11" data-name="Mask" d="M13.066.076C14.5-.006,15.932,0,17.365,0H24.63c1.462,0,2.894-.007,4.327.076a17.835,17.835,0,0,1,3.835.586,12.559,12.559,0,0,1,0,24.22,17.886,17.886,0,0,1-3.835.586c-1.433.082-2.865.075-4.3.075H17.392c-1.46,0-2.892.007-4.326-.076a17.887,17.887,0,0,1-3.834-.586,12.559,12.559,0,0,1,0-24.22A17.835,17.835,0,0,1,13.066.076Z" transform="translate(0 0.119)" fill="#b15ea2"/>
+              <g id="Switch-3" data-name="Switch" transform="translate(0 0.119)" clip-path="url(#clip-path)">
+                <g transform="matrix(1, 0, 0, 1, -552.09, -494)" filter="url(#knob-2)">
+                  <g id="knob-5" data-name="knob" transform="translate(570.22 495.65)" fill="#f1f1f1">
+                    <path d="M11.124,0A11.124,11.124,0,1,1,0,11.124,11.124,11.124,0,0,1,11.124,0Z" stroke="none"/>
+                    <path d="M 11.1236515045166 1.9073486328125e-06 C 4.980232238769531 1.9073486328125e-06 1.9073486328125e-06 4.980232238769531 1.9073486328125e-06 11.1236515045166 C 1.9073486328125e-06 17.26707077026367 4.980232238769531 22.24730110168457 11.1236515045166 22.24730110168457 C 17.26707077026367 22.24730110168457 22.24730110168457 17.26707077026367 22.24730110168457 11.1236515045166 C 22.24730110168457 4.980232238769531 17.26707077026367 1.9073486328125e-06 11.1236515045166 1.9073486328125e-06 M 11.1236515045166 -0.4999980926513672 C 14.22844123840332 -0.4999980926513672 17.14739227294922 0.7090721130371094 19.34281158447266 2.904491424560547 C 21.53823089599609 5.099910736083984 22.74730110168457 8.018861770629883 22.74730110168457 11.1236515045166 C 22.74730110168457 14.22844123840332 21.53823089599609 17.14739227294922 19.34281158447266 19.34281158447266 C 17.14739227294922 21.53823089599609 14.22844123840332 22.74730110168457 11.1236515045166 22.74730110168457 C 8.018861770629883 22.74730110168457 5.099910736083984 21.53823089599609 2.904491424560547 19.34281158447266 C 0.7090721130371094 17.14739227294922 -0.4999980926513672 14.22844123840332 -0.4999980926513672 11.1236515045166 C -0.4999980926513672 8.018861770629883 0.7090721130371094 5.099910736083984 2.904491424560547 2.904491424560547 C 5.099910736083984 0.7090721130371094 8.018861770629883 -0.4999980926513672 11.1236515045166 -0.4999980926513672 Z" stroke="none" fill="rgba(0,0,0,0.04)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1554" data-name="Group 1554" transform="translate(-187 -1107)">
+          <text id="_42_x_25" data-name="42 x 25" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">42 x 25</tspan></text>
+          <text id="x25.5" transform="translate(918 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.48"><tspan x="0" y="0">x25.5</tspan></text>
+        </g>
+        <text id="padding:_2px_" data-name="padding: 2px;" transform="translate(731 4274)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.48"><tspan x="0" y="0">padding: 2px;</tspan></text>
+      </g>
+      <g id="Group_1557" data-name="Group 1557" transform="translate(-54 -60)">
+        <g id="Group_1535" data-name="Group 1535" transform="translate(661.534 4392.43)">
+          <g id="Group_700" data-name="Group 700" transform="translate(228 -23)">
+            <g id="Group_384" data-name="Group 384" transform="translate(0)">
+              <g id="Rectangle_138" data-name="Rectangle 138" transform="translate(0.466 -0.43)" fill="none" stroke="rgba(241,241,241,0.72)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.5">
+                <rect width="15" height="16" stroke="none"/>
+                <rect x="1" y="1" width="13" height="14" fill="none"/>
+              </g>
+              <rect id="Rectangle_220" data-name="Rectangle 220" width="4" height="4" rx="1" transform="translate(5.466 5.57)" fill="#00e9a3" opacity="0"/>
+            </g>
+            <text id="checkbox" transform="translate(30.466 11.57)" fill="#fff" font-size="12" font-family="Muli"><tspan x="0" y="0">checkbox</tspan></text>
+          </g>
+          <g id="Group_701" data-name="Group 701" transform="translate(228 23.572)">
+            <g id="Group_384-2" data-name="Group 384" transform="translate(0)">
+              <g id="Rectangle_138-2" data-name="Rectangle 138" transform="translate(0.466 -0.002)" fill="none" stroke="#ed4d29" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <rect width="15" height="15" stroke="none"/>
+                <rect x="1" y="1" width="13" height="13" fill="none"/>
+              </g>
+              <rect id="Rectangle_220-2" data-name="Rectangle 220" width="4" height="4" rx="1" transform="translate(5.466 5.998)" fill="#ed4d29" opacity="0"/>
+            </g>
+            <text id="checkbox-2" data-name="checkbox" transform="translate(30.466 11.998)" fill="#fff" font-size="12" font-family="Muli"><tspan x="0" y="0">checkbox</tspan></text>
+          </g>
+          <g id="Group_702" data-name="Group 702" transform="translate(228 0.144)">
+            <g id="Group_384-3" data-name="Group 384" transform="translate(0)">
+              <g id="Rectangle_138-3" data-name="Rectangle 138" transform="translate(0.466 0.427)" fill="none" stroke="#f1f1f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <rect width="15" height="15" stroke="none"/>
+                <rect x="1" y="1" width="13" height="13" fill="none"/>
+              </g>
+              <rect id="Rectangle_220-3" data-name="Rectangle 220" width="4" height="4" rx="1" transform="translate(5.466 5.427)" fill="#ed4d29" opacity="0"/>
+              <rect id="Rectangle_366" data-name="Rectangle 366" width="9" height="9" rx="1" transform="translate(3.466 3.427)" fill="#00e9a3"/>
+            </g>
+            <text id="checkbox-3" data-name="checkbox" transform="translate(30.466 12.427)" fill="#fff" font-size="12" font-family="Muli"><tspan x="0" y="0">checkbox</tspan></text>
+          </g>
+        </g>
+        <g id="Group_1556" data-name="Group 1556" transform="translate(28 -1025)">
+          <text id="x16" transform="translate(862 5366)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">x16</tspan></text>
+          <text id="padding-right:_14px_" data-name="padding-right: 14px;" transform="translate(862 5381)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">padding-right: 14px;</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1559" data-name="Group 1559" transform="translate(-266 -89)">
+        <g id="Group_1008" data-name="Group 1008" transform="translate(600 4297)">
+          <g transform="matrix(1, 0, 0, 1, 3, -167)" filter="url(#Rectangle_215-3)">
+            <rect id="Rectangle_215-6" data-name="Rectangle 215" width="24" height="24" rx="5" transform="translate(308 304)" fill="#0a101d" opacity="0.5"/>
+          </g>
+          <g id="Group_369" data-name="Group 369" transform="translate(317.4 141)" opacity="0.5">
+            <g id="send" transform="translate(1.492)">
+              <g id="Group_332" data-name="Group 332" transform="translate(0 0)">
+                <path id="Path_138" data-name="Path 138" d="M227,48.616,231.142,45l4.142,3.616" transform="translate(-227 -45)" fill="none" stroke="#d3d5d9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+                <path id="Path_180" data-name="Path 180" d="M0,0V10.126" transform="translate(4.142)" fill="none" stroke="#d3d5d9" stroke-linecap="round" stroke-width="1"/>
+              </g>
+            </g>
+            <path id="Path_1070" data-name="Path 1070" d="M317.268,152.319v7.987H328.6v-7.987" transform="translate(-317.268 -145.086)" fill="none" stroke="#d3d5d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(870 4434)">
+          <g transform="matrix(1, 0, 0, 1, -267, -304)" filter="url(#knob-3)">
+            <g id="knob-6" data-name="knob" transform="translate(267 304)" fill="rgba(120,120,128,0.16)">
+              <path d="M13.5,0A13.5,13.5,0,1,1,0,13.5,13.5,13.5,0,0,1,13.5,0Z" stroke="none"/>
+              <path d="M 13.5 0 C 6.044160842895508 0 0 6.044160842895508 0 13.5 C 0 20.95584106445313 6.044160842895508 27 13.5 27 C 20.95584106445313 27 27 20.95584106445313 27 13.5 C 27 6.044160842895508 20.95584106445313 0 13.5 0 M 13.5 -0.5 C 17.23952865600586 -0.5 20.75523948669434 0.9562492370605469 23.39949035644531 3.600509643554688 C 26.04375076293945 6.244760513305664 27.5 9.760469436645508 27.5 13.5 C 27.5 17.23952865600586 26.04375076293945 20.75523948669434 23.39949035644531 23.39949035644531 C 20.75523948669434 26.04375076293945 17.23952865600586 27.5 13.5 27.5 C 9.760469436645508 27.5 6.244760513305664 26.04375076293945 3.600509643554688 23.39949035644531 C 0.9562492370605469 20.75523948669434 -0.5 17.23952865600586 -0.5 13.5 C -0.5 9.760469436645508 0.9562492370605469 6.244760513305664 3.600509643554688 3.600509643554688 C 6.244760513305664 0.9562492370605469 9.760469436645508 -0.5 13.5 -0.5 Z" stroke="none" fill="rgba(0,0,0,0.04)"/>
+            </g>
+          </g>
+          <g id="refresh-page-arrow" transform="translate(6 6)">
+            <g id="Group_43" data-name="Group 43" transform="translate(0 0)">
+              <path id="Path_74" data-name="Path 74" d="M7.2,14.2a5.727,5.727,0,0,1-5.45-4.043.671.671,0,0,0-1.284.391A7.036,7.036,0,1,0,7.2,1.467,7.108,7.108,0,0,0,1.613,4.214L1.334,2A.67.67,0,0,0,.005,2.17L.53,6.257a.671.671,0,0,0,.659.581h.078L5.31,6.38a.668.668,0,0,0-.145-1.329l-2.714.3A5.7,5.7,0,1,1,7.2,14.2Z" transform="translate(0 -1.417)" fill="rgba(241,241,241,0.56)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1558" data-name="Group 1558" transform="translate(37 -65)">
+          <text id="x24_x27" data-name="x24    x27" transform="translate(833 4435)" fill="rgba(241,241,241,0.48)" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0" xml:space="preserve">x24   </tspan><tspan y="0" xml:space="preserve"> x27</tspan></text>
+          <text id="border-radius:_5px_50_box-shadow:_0px_3px_6px_0px_rgba_0_0_0_0.4_" data-name="border-radius: 5px; 50%;
+box-shadow: 0px 3px 6px 0px 
+rgba(0,0,0,0.4);" transform="translate(833 4450)" fill="#f1f1f1" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">border-radius: 5px; </tspan><tspan y="0" fill="rgba(241,241,241,0.48)">50%;</tspan><tspan x="0" y="18">box-shadow: 0px 3px 6px 0px </tspan><tspan x="0" y="36">rgba(0,0,0,0.4);</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

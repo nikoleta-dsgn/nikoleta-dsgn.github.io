@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="676" height="338" viewBox="0 0 676 338">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a101d" stop-opacity="0"/>
+      <stop offset="0.569" stop-color="#0a101d" stop-opacity="0.839"/>
+      <stop offset="1" stop-color="#0a101d"/>
+    </linearGradient>
+  </defs>
+  <g id="colors" transform="translate(-379.771 -2834.186)">
+    <rect id="Rectangle_668" data-name="Rectangle 668" width="676" height="338" transform="translate(379.771 2834.186)" fill="#0a101d"/>
+    <g id="colors-2" data-name="colors" transform="translate(0 0.187)">
+      <rect id="Rectangle_589" data-name="Rectangle 589" width="5" height="33" rx="2.5" transform="translate(983.771 2880.186) rotate(-90)" fill="#00a251"/>
+      <text id="_00A251" data-name="#00A251" transform="translate(960.771 2895.186)" fill="#f1f1f1" font-size="13" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">#00A251</tspan></text>
+      <text id="success_fresh" data-name="success / fresh" transform="translate(958.771 2909.186)" fill="#f1f1f1" font-size="8" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">success / fresh</tspan></text>
+      <rect id="Rectangle_605" data-name="Rectangle 605" width="6" height="33" rx="3" transform="translate(983.771 2953.186) rotate(-90)" fill="#dede00"/>
+      <text id="_DEDE00" data-name="#DEDE00" transform="translate(956.771 2967.473)" fill="#f1f1f1" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">#DEDE00</tspan></text>
+      <text id="warning_decreasing" data-name="warning / decreasing" transform="translate(942.772 2981.26)" fill="#f1f1f1" font-size="7" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">warning / decreasing</tspan></text>
+      <rect id="Rectangle_606" data-name="Rectangle 606" width="6" height="33" rx="3" transform="translate(983.772 3026.186) rotate(-90)" fill="#ed4d29"/>
+      <text id="_ED4D29" data-name="#ED4D29" transform="translate(952.771 3041.186)" fill="#f1f1f1" font-size="13" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">#ED4D29</tspan></text>
+      <text id="danger_expiring" data-name="danger / expiring" transform="translate(956.772 3054.144)" fill="#f1f1f1" font-size="7" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">danger / expiring</tspan></text>
+      <rect id="Rectangle_607" data-name="Rectangle 607" width="7" height="33" rx="3.5" transform="translate(983.771 3099.186) rotate(-90)" fill="#7e2a18"/>
+      <text id="_7E2A18" data-name="#7E2A18" transform="translate(960.771 3115.186)" fill="#f1f1f1" font-size="13" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">#7E2A18</tspan></text>
+      <text id="attention_prepared" data-name="attention / prepared" transform="translate(935.771 3129.186)" fill="#f1f1f1" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">attention / prepared</tspan></text>
+      <g id="Group_1459" data-name="Group 1459" transform="translate(642.364 3006.273)">
+        <g id="Group_1451" data-name="Group 1451" transform="translate(0 0)">
+          <rect id="Rectangle_590" data-name="Rectangle 590" width="58" height="187" rx="4" transform="translate(0.407 57.913) rotate(-90)" fill="#057d60"/>
+          <path id="Rectangle_592" data-name="Rectangle 592" d="M0,0H35a4,4,0,0,1,4,4V183a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0.407 38.913) rotate(-90)" fill="#00e9a3"/>
+          <text id="_00E9A3" data-name="#00E9A3" transform="translate(4.815 15)" fill="#0a101d" font-size="11" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.83"><tspan x="0" y="0">#00E9A3</tspan></text>
+          <text id="brand_color" data-name="brand color" transform="translate(4.815 25.287)" fill="#0a101d" font-size="7" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">brand color</tspan></text>
+          <text id="_50_" data-name="50%" transform="translate(4.815 52.011)" fill="#083534" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_1450" data-name="Group 1450" transform="translate(0 66.987)">
+          <rect id="Rectangle_591" data-name="Rectangle 591" width="58" height="187" rx="4" transform="translate(0.407 57.926) rotate(-90)" fill="#5e375f"/>
+          <path id="Rectangle_593" data-name="Rectangle 593" d="M0,0H35a4,4,0,0,1,4,4V183a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0.407 38.926) rotate(-90)" fill="#b15ea2"/>
+          <text id="_B15EA2" data-name="#B15EA2" transform="translate(4.815 15.284)" fill="#0a101d" font-size="11" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.83"><tspan x="0" y="0">#B15EA2</tspan></text>
+          <text id="_50_2" data-name="50%" transform="translate(4.815 51.295)" fill="#261d33" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">50%</tspan></text>
+          <text id="complementary_color" data-name="complementary color" transform="translate(4.815 25.57)" fill="#0a101d" font-size="7" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">complementary color</tspan></text>
+        </g>
+      </g>
+      <text id="accent" transform="translate(846.772 3131.186) rotate(-90)" fill="#454953" font-size="10" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.375em"><tspan x="0" y="0">ACCENT</tspan></text>
+      <g id="Group_1449" data-name="Group 1449" transform="translate(642.364 2874.609)">
+        <path id="Rectangle_595" data-name="Rectangle 595" d="M4,0H19a0,0,0,0,1,0,0V187a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(0.407 96.577) rotate(-90)" fill="#666a71"/>
+        <path id="Rectangle_594" data-name="Rectangle 594" d="M0,0H35a4,4,0,0,1,4,4V183a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0.407 39.577) rotate(-90)" fill="#f1f1f1"/>
+        <rect id="Rectangle_596" data-name="Rectangle 596" width="19" height="187" transform="translate(0.407 77.577) rotate(-90)" fill="#8b8e94"/>
+        <path id="Path_1373" data-name="Path 1373" d="M0,0H19V187H0Z" transform="translate(0.407 58.577) rotate(-90)" fill="#b1b2b6"/>
+        <text id="_F1F1F1" data-name="#F1F1F1" transform="translate(4.815 16)" fill="#0a101d" font-size="11" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.83"><tspan x="0" y="0">#F1F1F1</tspan></text>
+        <text id="text_color" data-name="text color" transform="translate(4.815 26.287)" fill="#0a101d" font-size="7" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">text color</tspan></text>
+        <text id="_72_" data-name="72%" transform="translate(4.815 51.011)" fill="#313641" font-size="11" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">72%</tspan></text>
+        <text id="_56_" data-name="56%" transform="translate(4.815 70.517)" fill="#313641" font-size="11" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">56%</tspan></text>
+        <text id="_40_" data-name="40%" transform="translate(4.815 90.023)" fill="#313641" font-size="11" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">40%</tspan></text>
+      </g>
+      <text id="neutral" transform="translate(846.772 2971.186) rotate(-90)" fill="#454953" font-size="10" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.375em"><tspan x="0" y="0">NEUTRAL</tspan></text>
+      <text id="primary" transform="translate(410.772 3130.186) rotate(-90)" fill="#454953" font-size="10" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.375em"><tspan x="0" y="0">PRIMARY</tspan></text>
+      <g id="Group_1507" data-name="Group 1507" transform="translate(420.965 2874)">
+        <g id="Group_1452" data-name="Group 1452" transform="translate(0 199.324)">
+          <path id="Path_1374" data-name="Path 1374" d="M4,0H54.517a4,4,0,0,1,4,4V183.707a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(0 58.517) rotate(-90)" fill="#030412"/>
+          <path id="Rectangle_589-2" data-name="Rectangle 589" d="M0,0H35.011a4,4,0,0,1,4,4V183.707a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 39.011) rotate(-90)" fill="#00010e"/>
+          <text id="_00010E" data-name="#00010E" transform="translate(4.337 15.267)" fill="#fff" font-size="11" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">#00010E</tspan></text>
+          <text id="_72_2" data-name="72%" transform="translate(4.337 50.621)" fill="#d4d4d6" font-size="11" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">72%</tspan></text>
+          <text id="search_bar_tags_overlay" data-name="search bar, tags, overlay" transform="translate(4.337 25.554)" fill="#fff" font-size="7" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">search bar, tags, overlay</tspan></text>
+        </g>
+        <g id="Group_1453" data-name="Group 1453" transform="translate(0)">
+          <g id="Rectangle_589-3" data-name="Rectangle 589" transform="translate(0 58.517) rotate(-90)" fill="#0a101d" stroke="rgba(255,255,255,0.5)" stroke-width="0.2">
+            <rect width="58.517" height="187.707" rx="4" stroke="none"/>
+            <rect x="-0.1" y="-0.1" width="58.717" height="187.907" rx="4.1" fill="none"/>
+          </g>
+          <text id="_0A101D" data-name="#0A101D" transform="translate(4.337 15.61)" fill="#fff" font-size="11" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">#0A101D</tspan></text>
+          <text id="background" transform="translate(4.337 25.896)" fill="#fff" font-size="7" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">background</tspan></text>
+        </g>
+        <g id="Group_1506" data-name="Group 1506" transform="translate(0 68.575)">
+          <g id="Rectangle_589-4" data-name="Rectangle 589" transform="translate(0 120.692) rotate(-90)" fill="#151d2e" stroke="rgba(255,255,255,0.5)" stroke-width="0.2">
+            <rect width="120.692" height="187.707" rx="4" stroke="none"/>
+            <rect x="-0.1" y="-0.1" width="120.892" height="187.907" rx="4.1" fill="none"/>
+          </g>
+          <text id="_151D2E" data-name="#151D2E" transform="translate(4.337 15.61)" fill="#fff" font-size="11" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.83"><tspan x="0" y="0">#151D2E</tspan></text>
+          <text id="cards" transform="translate(4.337 25.896)" fill="#fff" font-size="7" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">cards</tspan></text>
+          <path id="Rectangle_336" data-name="Rectangle 336" d="M0,0H188a0,0,0,0,1,0,0V55a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(-0.193 61.611)" fill="url(#linear-gradient)"/>
+          <text id="over_last_card_only" data-name="over last card only" transform="translate(4.337 114.234)" fill="#fff" font-size="7" font-family="Montserrat-Italic, Montserrat" font-style="italic" opacity="0.83"><tspan x="0" y="0">over last card only</tspan></text>
+          <text id="_0A101D_100_-_0_" data-name="#0A101D 100% - 0%" transform="translate(4.337 104.252)" fill="#d4d4d6" font-size="11" font-family="Montserrat-Regular, Montserrat" opacity="0.83"><tspan x="0" y="0">#0A101D 100% - 0%</tspan></text>
+        </g>
+      </g>
+      <line id="Line_6" data-name="Line 6" y1="176.549" transform="translate(407.271 2874.61)" fill="none" stroke="#454953" stroke-width="0.2"/>
+      <line id="Line_7" data-name="Line 7" y1="56.744" transform="translate(843.271 3006.273)" fill="none" stroke="#454953" stroke-width="0.2"/>
+      <g id="Group_1609" data-name="Group 1609" transform="translate(1023.441 2874.61)">
+        <text id="semantic" transform="translate(9 257.842) rotate(-90)" fill="#454953" font-size="9" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.375em"><tspan x="0" y="0">SEMANTIC</tspan></text>
+        <path id="Path_1372" data-name="Path 1372" d="M0,176.574V0" transform="translate(6.378)" fill="#454953" stroke="#454953" stroke-width="0.2"/>
+      </g>
+      <line id="Line_8" data-name="Line 8" y1="15.913" transform="translate(843.271 2874.61)" fill="none" stroke="#454953" stroke-width="0.2"/>
+    </g>
+  </g>
+</svg>

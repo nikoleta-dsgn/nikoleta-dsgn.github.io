@@ -1,0 +1,200 @@
+:root {
+    --bg: #f1f1f1;
+    --black: #0A101D;
+    --mrk: #E9B4DF;
+    --link: #008E63;
+    font-size: 16px
+}
+
+h5 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.3;
+    margin: 0;
+}
+
+h4 {
+    background-color: var(--mrk);
+    margin-bottom: 1.25rem;
+}
+
+a:hover {
+    color: var(--link);
+}
+
+
+.wrapper-light-bg {
+    background-color: white;
+}
+
+.wrapper-dark-bg {
+    background-color: #0a101d;
+}
+
+.wrapper-dark-bg p {
+    color: var(--bg);
+}
+
+.ap {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--bg);
+}
+
+.tasks {
+    display: flex;
+}
+
+.tasks p {
+    font-size: 0.875rem;
+}
+
+.tasks div {
+    width: 50%;
+    padding: 1vw;
+}
+
+.tasks div:nth-of-type(odd) {
+    padding-left: 0;
+}
+
+.tasks div img {
+    width: 100%;
+    height: auto;
+}
+
+.wrapper-flex {
+    padding: 1.25rem 0;
+    width: 37rem;
+    margin: auto;
+    display: flex;
+}
+
+.wrapper-flex div {
+    padding: 1rem;
+}
+
+.wrapper-flex-two {
+    padding: 1.25rem 0;
+    width: 37rem;
+    margin: auto;
+    display: flex;
+}
+
+.wrapper-flex-two div {
+    margin: 0 1rem 0 0;
+    width: 20rem;
+}
+
+.one {
+    width: 15rem;
+    padding-right: 2rem;
+}
+
+.two {
+    width: 20rem;
+}
+
+.vrtcl {
+    background-color: #00F1A7;
+}
+
+.wrapper img {
+    width: 37rem;
+}
+
+.frid-div-one {
+    width: 18rem !important;
+}
+
+.frid-div-two {
+    margin-right: 0 !important;
+    width: 22rem !important;
+}
+
+.background {
+    padding-top: 4.5rem;
+    background-color: #0a101d;
+}
+
+.background h1 {
+    color: var(--bg);
+}
+
+.screens {
+    width: 80vw;
+    display: flex;
+    margin: 1rem auto 4.5rem;
+}
+
+.screens img {
+    display: block;
+    margin: auto;
+}
+
+.screens img:nth-of-type(odd) {
+    margin-bottom: 6rem;
+}
+
+.vid video {
+    width: 90vw;
+    margin: auto;
+}
+
+.vid {
+    width: 90vw;
+    margin: auto;
+}
+
+.vid video {
+    border-radius: 40%;
+}
+
+.showcase {
+    display: grid;
+    grid-template-columns: 36.31rem 47.93rem;
+    justify-items: end;
+    width: 84.3125rem;
+    margin: auto;
+}
+
+.showcase video {
+    width: 13.5rem;
+    z-index: 1;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    align-self: center;
+}
+
+.showcase img {
+    grid-column: 1/3;
+    grid-row: 1/2;
+    align-self: center;
+
+}
+
+.home {
+    width: 4rem;
+    position: fixed;
+    top: 2rem;
+    left: 2rem;
+
+}
+
+@media screen and (max-width: 1280px) {
+    .screens img {
+        width: 12rem;
+    }
+}
+
+
+
+
+
+
+
+
+
