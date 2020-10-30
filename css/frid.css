@@ -142,15 +142,13 @@ a:hover {
 .vid video {
     width: 90vw;
     margin: auto;
+    border-radius: 40%;
+    border-bottom-right-radius: 30%;
 }
 
 .vid {
     width: 90vw;
     margin: auto;
-}
-
-.vid video {
-    border-radius: 40%;
 }
 
 .showcase {
