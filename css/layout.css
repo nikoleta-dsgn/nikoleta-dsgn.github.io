@@ -36,6 +36,14 @@ h3{
     line-height: 1;
     margin: 0 0 0.5rem 0;
 }
+h7{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1;
+    text-align: center;
+    margin: auto;
+}
 
 h4 {
     font-family: 'Mulish', sans-serif;
@@ -372,6 +380,13 @@ h6{
     color: #94E5CC;
 }
 
+.illustration{
+    width: 90vw;
+    margin: auto;
+    display: block;
+    margin-bottom: 8vh;
+    margin-top: 8vh;
+}
 
 
 
